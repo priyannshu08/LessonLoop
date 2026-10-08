@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+env/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Output (optional - you may want to keep these for demo)
+# outputs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Scratch
+.compact_tmp/
