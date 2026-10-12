@@ -1,0 +1,13 @@
+{
+  "evolutions": [
+    {
+      "timestamp": "2026-08-26T12:15:55.524686",
+      "source_run": "8471e1bb",
+      "change_description": "1 rule(s) promoted after recurring",
+      "new_lessons_added": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "total_lessons_in_memory": 1
+    }
+  ]
+}

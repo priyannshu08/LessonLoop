@@ -1,0 +1,23 @@
+{
+  "lessons": [
+    {
+      "id": "rule_001",
+      "created_at": "2026-08-26T12:15:55.523252",
+      "insight": "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language.",
+      "signature": "no_unexplained_jargon::undefined_terms",
+      "source_run": "8471e1bb",
+      "evidence_runs": [
+        "Neural Networks",
+        "RAG (Retrieval-Augmented Generation)",
+        "Vector Databases"
+      ],
+      "status": "active",
+      "supersedes": [],
+      "superseded_by": null,
+      "runs_active": 14,
+      "runs_passed": 12,
+      "runs_passed_first_attempt": 9,
+      "status_reason": "Confirmed: 67% pass rate over 3 runs."
+    }
+  ]
+}

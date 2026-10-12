@@ -1,0 +1,2736 @@
+{
+  "runs": [
+    {
+      "run_id": "2fe28c1d",
+      "timestamp": "2026-08-26T12:11:03.484514",
+      "topic": "Compound Interest",
+      "total_attempts": 1,
+      "final_passed": true,
+      "final_result": "PASSED",
+      "duration_seconds": 15.94,
+      "memory_rules_active_count": 0,
+      "memory_rules_active": [],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 556,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 556,
+            "sentence_count": 61,
+            "avg_sentence_words": 9.1,
+            "long_sentence_count": 1,
+            "long_sentence_ratio": 0.016,
+            "longest_sentences": [
+              "Unlike simple interest, which only pays you on the original amount you put in, compound interest pays you on both your original amount and any interest you have already earned."
+            ],
+            "academic_words": [],
+            "fk_grade": 5.1,
+            "reading_ease": 77.2
+          },
+          "passed_count": 6,
+          "failed_count": 0,
+          "overall_pass": true,
+          "evaluation_summary": "The lesson on compound interest is well-structured and beginner-friendly, using clear language and a detailed example to explain the concept. It accurately covers what compound interest is, why it matters, and how it works, ensuring that all key points are addressed. The teaching flow is coherent, making it easy for a beginner to follow and understand.",
+          "is_final_attempt": true,
+          "lesson_preview": "# Lesson on Compound Interest\n\n## What is Compound Interest?\n\nCompound interest is a way to calculate how much money you earn on your savings or investments. Unlike simple interest, which only pays you on the original amount you put in, compound interest pays you on both your original amount and any interest you have already earned.\n\n### Why Does It Matter?\n\nUnderstanding compound interest is impo...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes compound interest as earning interest on both the initial principal and the accumulated interest, which is a correct and grounded explanation of how compound interest works.",
+              "evidence": "\"Compound interest is a way to calculate how much money you earn on your savings or investments. Unlike simple interest, which only pays you on the original amount you put in, compound interest pays you on both your original amount and any interest you have already earned.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used throughout the lesson is conversational and approachable, making it suitable for a beginner. Phrases like \"Let\u2019s break it down step by step\" indicate a friendly tone rather than a formal or textbook style.",
+              "evidence": "\"Let\u2019s break it down step by step.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides a detailed example of how compound interest works over three years, walking through each year's calculations. This concrete example helps the reader see the concept in action rather than just in theory.",
+              "evidence": "\"Imagine you save \u20b91,000 in a bank account that offers a compound interest rate of 5% per year. Here\u2019s how it works:...\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains the formula for compound interest clearly, breaking down each component in simple terms. There is no unexplained jargon, and each term is defined in a way that a beginner can understand.",
+              "evidence": "\"The formula to calculate compound interest is: \\[ A = P (1 + r)^n \\] Where: - **A** = the total amount after n years (including interest) - **P** = the principal amount (initial money) - **r** = the interest rate (in decimal form) - **n** = the number of years\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what compound interest is, why it matters, and how it works through a detailed example and formula explanation. All key points are addressed comprehensively.",
+              "evidence": "\"Compound interest is a way to calculate how much money you earn on your savings or investments... Understanding compound interest is important because it helps you grow your money over time... Let\u2019s break it down step by step.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical progression from defining compound interest, explaining its importance, providing a detailed example, and then introducing the formula. This coherent flow helps the reader build understanding step by step without confusion.",
+              "evidence": "\"Let\u2019s break it down step by step. Example Scenario... Year-by-Year Breakdown... The Formula for Compound Interest... Conclusion\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 1,
+      "new_rules_learned": [],
+      "memory_rules_after": [],
+      "memory_rules_after_count": 0,
+      "failed_checkpoints_per_attempt": []
+    },
+    {
+      "run_id": "3a573551",
+      "timestamp": "2026-08-26T12:11:23.285667",
+      "topic": "Photosynthesis",
+      "total_attempts": 1,
+      "final_passed": true,
+      "final_result": "PASSED",
+      "duration_seconds": 18.65,
+      "memory_rules_active_count": 0,
+      "memory_rules_active": [],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 508,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 508,
+            "sentence_count": 50,
+            "avg_sentence_words": 10.2,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 8.0,
+            "reading_ease": 60.8
+          },
+          "passed_count": 6,
+          "failed_count": 0,
+          "overall_pass": true,
+          "evaluation_summary": "The lesson on photosynthesis is well-structured and beginner-friendly, using simple language and relatable examples to explain the process. It accurately covers the key points of what photosynthesis is, why it matters, and how it works, ensuring a coherent teaching flow. The explanations are clear and jargon-free, making the topic accessible to someone with no prior background in the subject.",
+          "is_final_attempt": true,
+          "lesson_preview": "# Photosynthesis: The Food-Making Process of Plants\n\n## What is Photosynthesis?\n\nPhotosynthesis is the process by which green plants, algae, and some bacteria make their food. They use sunlight, carbon dioxide (a gas from the air), and water to create sugar (a type of food) and oxygen (a gas we breathe).\n\n### Why Does Photosynthesis Matter?\n\nPhotosynthesis is important for several reasons:\n\n1. **F...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes photosynthesis as the process by which plants, algae, and some bacteria use sunlight, carbon dioxide, and water to produce glucose and oxygen. This is a correct and simplified explanation of the process.",
+              "evidence": "\"Photosynthesis is the process by which green plants, algae, and some bacteria make their food. They use sunlight, carbon dioxide (a gas from the air), and water to create sugar (a type of food) and oxygen (a gas we breathe).\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used is simple and conversational, explaining photosynthesis in terms that are easy to understand, such as referring to glucose as \"a type of food\" and oxygen as \"a gas we breathe.\" This makes the lesson accessible to beginners.",
+              "evidence": "\"Photosynthesis is the process by which green plants, algae, and some bacteria make their food. They use sunlight, carbon dioxide (a gas from the air), and water to create sugar (a type of food) and oxygen (a gas we breathe).\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides concrete examples, such as comparing chlorophyll to a solar panel and roots to straws, which help the reader visualize and understand the process of photosynthesis in a relatable way.",
+              "evidence": "\"Example: Imagine a plant like a solar panel, soaking up sunlight.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains terms like \"stomata\" in simple language, using analogies like \"tiny doors\" to make the concept understandable without assuming prior knowledge.",
+              "evidence": "\"Plants take in carbon dioxide from the air through tiny openings in their leaves called stomata. Example: Stomata are like tiny doors that open to let in air.\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what photosynthesis is, why it matters (food production, oxygen supply, energy source), and how it works (step-by-step process). It provides a comprehensive overview of the topic.",
+              "evidence": "\"Photosynthesis is important for several reasons: Food Production, Oxygen Supply, Energy Source.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical sequence, starting with the absorption of sunlight and ending with the release of oxygen. Each step builds on the previous one, creating a coherent flow of information.",
+              "evidence": "\"1. Sunlight Absorption... 2. Water Uptake... 3. Carbon Dioxide Intake... 4. Food Production... 5. Oxygen Release...\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 1,
+      "new_rules_learned": [],
+      "memory_rules_after": [],
+      "memory_rules_after_count": 0,
+      "failed_checkpoints_per_attempt": []
+    },
+    {
+      "run_id": "fbf77ebb",
+      "timestamp": "2026-08-26T12:12:07.735853",
+      "topic": "How the Internet Works",
+      "total_attempts": 3,
+      "final_passed": false,
+      "final_result": "BEST_EFFORT",
+      "duration_seconds": 43.3,
+      "memory_rules_active_count": 0,
+      "memory_rules_active": [],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 500,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 500,
+            "sentence_count": 42,
+            "avg_sentence_words": 11.9,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 7.9,
+            "reading_ease": 61.5
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (coherent_teaching_flow). The lesson effectively explains how the Internet works using beginner-friendly language and concrete examples. It accurately covers key concepts such as devices, connections, packets, IP addresses, and servers, ensuring no jargon is left unexplained. The teaching flow is coherent, making it easy for a beginner to follow and understand.",
+          "is_final_attempt": false,
+          "lesson_preview": "# How the Internet Works\n\n## What is the Internet?\n\nThe Internet is a network of computers around the world. It allows people to share information and communicate. Think of it like a giant spider web connecting many computers. When you use your smartphone or computer, you are using the Internet to send and receive information.\n\n## Why Does the Internet Matter?\n\nThe Internet is important for many r...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes the Internet as a network of computers that facilitates communication and information sharing. It also correctly explains concepts like Wi-Fi, mobile data, packets, IP addresses, and servers, providing a grounded understanding of how the Internet functions.",
+              "evidence": "\"The Internet is a network of computers around the world. It allows people to share information and communicate.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used is simple and relatable, using analogies like a 'giant spider web' to explain complex concepts. The tone is conversational, making it accessible to beginners.",
+              "evidence": "\"Think of it like a giant spider web connecting many computers. When you use your smartphone or computer, you are using the Internet to send and receive information.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson includes several concrete examples, such as connecting to Wi-Fi and sending a message, which walk through scenarios to illustrate how the Internet works in practice.",
+              "evidence": "\"Example: Connecting to Wi-Fi... Imagine you are at home. You turn on your smartphone and connect to your Wi-Fi.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains technical terms like 'packets' and 'IP addresses' in simple language, ensuring that jargon is not left unexplained or circularly defined.",
+              "evidence": "\"When you send or receive information, it is broken into small pieces called **packets**.\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what the Internet is, why it matters, and how it works, providing a comprehensive overview that includes the necessary components and processes involved.",
+              "evidence": "\"The Internet is a huge network that connects computers and devices around the world. It allows us to communicate, find information, and enjoy entertainment. We use devices, connections, packets, IP addresses, and servers to make it all happen.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": false,
+              "reason": "The lesson explains how it works before explaining what it is, so the reader meets the mechanism before the concept. Introduce what it is first.",
+              "evidence": "\"# How the Internet Works\" appears before \"## What is the Internet?\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        },
+        {
+          "attempt_number": 2,
+          "word_count": 500,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 500,
+            "sentence_count": 42,
+            "avg_sentence_words": 11.9,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 7.9,
+            "reading_ease": 61.5
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (coherent_teaching_flow). The lesson effectively explains how the Internet works using beginner-friendly language and relatable examples. It accurately covers the key points of what the Internet is, why it matters, and how it functions, ensuring a coherent teaching flow. The explanations are clear and devoid of unexplained jargon, making it suitable for a beginner audience.",
+          "is_final_attempt": false,
+          "lesson_preview": "# How the Internet Works\n\n## What is the Internet?\n\nThe Internet is a network of computers around the world. It allows people to share information and communicate. Think of it like a giant spider web connecting many computers. When you use your smartphone or computer, you are using the Internet to send and receive information.\n\n## Why Does the Internet Matter?\n\nThe Internet is important for many r...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes the Internet as a network of computers that facilitates communication and information sharing. It also correctly explains the role of devices, connections, packets, IP addresses, and servers in the functioning of the Internet. The examples provided, such as connecting to Wi-Fi and sending a message, are grounded in real-world processes.",
+              "evidence": "\"The Internet is a network of computers around the world. It allows people to share information and communicate.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The lesson uses simple and relatable analogies, such as comparing the Internet to a giant spider web, to explain complex concepts. The language is conversational and accessible, making it easy for a beginner to understand.",
+              "evidence": "\"Think of it like a giant spider web connecting many computers.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson includes several concrete examples that walk through scenarios, such as connecting to Wi-Fi and sending a message. These examples help the reader visualize and understand how the Internet works in practical terms.",
+              "evidence": "\"Example: Connecting to Wi-Fi... Imagine you are at home. You turn on your smartphone and connect to your Wi-Fi.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains technical terms like 'packets' and 'IP addresses' in simple language, ensuring that the reader can understand these concepts without prior knowledge. The explanations are clear and avoid circular definitions.",
+              "evidence": "\"When you send or receive information, it is broken into small pieces called **packets**.\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what the Internet is, why it matters, and how it works. It explains the components and processes involved in using the Internet, such as devices, connections, and data transmission, providing a comprehensive overview.",
+              "evidence": "\"The Internet is a huge network that connects computers and devices around the world. It allows us to communicate, find information, and enjoy entertainment. We use devices, connections, packets, IP addresses, and servers to make it all happen.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": false,
+              "reason": "The lesson explains how it works before explaining what it is, so the reader meets the mechanism before the concept. Introduce what it is first.",
+              "evidence": "\"# How the Internet Works\" appears before \"## What is the Internet?\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        },
+        {
+          "attempt_number": 3,
+          "word_count": 500,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 500,
+            "sentence_count": 42,
+            "avg_sentence_words": 11.9,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 7.9,
+            "reading_ease": 61.5
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (coherent_teaching_flow). The lesson effectively explains how the Internet works using beginner-friendly language and concrete examples. It accurately covers key points about the Internet's function, importance, and components, ensuring a coherent teaching flow. The explanations are clear and devoid of unexplained jargon, making it suitable for a beginner audience.",
+          "is_final_attempt": true,
+          "lesson_preview": "# How the Internet Works\n\n## What is the Internet?\n\nThe Internet is a network of computers around the world. It allows people to share information and communicate. Think of it like a giant spider web connecting many computers. When you use your smartphone or computer, you are using the Internet to send and receive information.\n\n## Why Does the Internet Matter?\n\nThe Internet is important for many r...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes the Internet as a network of computers that facilitates communication and information sharing. It also correctly explains the role of devices, connections, packets, IP addresses, and servers in the functioning of the Internet. The examples provided, such as connecting to Wi-Fi and sending a message, are grounded in real-world processes.",
+              "evidence": "\"The Internet is a network of computers around the world. It allows people to share information and communicate.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The lesson uses simple analogies and everyday language to explain complex concepts, such as comparing the Internet to a giant spider web. The tone is conversational and approachable, making it accessible to beginners.",
+              "evidence": "\"Think of it like a giant spider web connecting many computers. When you use your smartphone or computer, you are using the Internet to send and receive information.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson includes several concrete examples that walk through scenarios, such as connecting to Wi-Fi and sending a message. These examples help the reader visualize and understand how the Internet works in practical terms.",
+              "evidence": "\"Example: Connecting to Wi-Fi... Imagine you are at home. You turn on your smartphone and connect to your Wi-Fi. Your Wi-Fi router receives the signal from your Internet Service Provider (ISP).\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains technical terms like 'packets' and 'IP addresses' in simple language that is understandable to someone with no background in technology. The explanations are clear and avoid circular definitions.",
+              "evidence": "\"When you send or receive information, it is broken into small pieces called **packets**. Each packet travels separately over the Internet.\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what the Internet is, why it matters, and how it works. It explains the components and processes involved in using the Internet, such as devices, connections, and data packets, providing a comprehensive overview.",
+              "evidence": "\"The Internet is a huge network that connects computers and devices around the world. It allows us to communicate, find information, and enjoy entertainment. We use devices, connections, packets, IP addresses, and servers to make it all happen.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": false,
+              "reason": "The lesson explains how it works before explaining what it is, so the reader meets the mechanism before the concept. Introduce what it is first.",
+              "evidence": "\"# How the Internet Works\" appears before \"## What is the Internet?\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 1,
+      "new_rules_learned": [],
+      "memory_rules_after": [],
+      "memory_rules_after_count": 0,
+      "failed_checkpoints_per_attempt": [
+        [
+          "coherent_teaching_flow"
+        ],
+        [
+          "coherent_teaching_flow"
+        ]
+      ]
+    },
+    {
+      "run_id": "9d7363b3",
+      "timestamp": "2026-08-26T12:13:27.857835",
+      "topic": "How the Internet Works",
+      "total_attempts": 1,
+      "final_passed": true,
+      "final_result": "PASSED",
+      "duration_seconds": 17.29,
+      "memory_rules_active_count": 0,
+      "memory_rules_active": [],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 574,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 574,
+            "sentence_count": 43,
+            "avg_sentence_words": 13.3,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 7.7,
+            "reading_ease": 63.9
+          },
+          "passed_count": 6,
+          "failed_count": 0,
+          "overall_pass": true,
+          "evaluation_summary": "The lesson effectively explains how the Internet works using beginner-friendly language and relatable examples. It accurately covers what the Internet is, why it matters, and how it functions, ensuring that all key points are addressed. The teaching flow is coherent, making it easy for a beginner to follow and understand the material.",
+          "is_final_attempt": true,
+          "lesson_preview": "# How the Internet Works\n\nIn this lesson, we will explore what the Internet is, why it matters, and how it functions. By the end, you will have a basic understanding of the Internet and how it connects people and information.\n\n## What is the Internet?\n\nThe Internet is a network of computers around the world. It allows people to share information and communicate with each other. You can think of it...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes the Internet as a network of computers that facilitates communication and information sharing. The explanation of data traveling in packets and the role of IP addresses is also correct. The simplifications used, such as comparing the Internet to a spider web and servers to libraries, are honest and do not distort the actual workings of the Internet.",
+              "evidence": "\"The Internet is a network of computers around the world. It allows people to share information and communicate with each other.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The lesson uses simple and relatable analogies, such as comparing the Internet to a spider web and servers to libraries, which makes the content accessible and easy to understand for beginners. The tone is conversational and friendly, resembling an explanation from a friend rather than a textbook.",
+              "evidence": "\"You can think of it like a huge spider web. Each computer is a point on the web, and they are all connected to each other.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson includes several concrete examples that walk through scenarios, such as how a phone sends a request to an ISP or how data packets are like sending notes in separate envelopes. These examples help the reader visualize and understand the processes being described.",
+              "evidence": "\"Example: When you use your phone to browse a website, your phone sends a request to your Internet Service Provider (ISP). The ISP acts like a delivery person, taking your request to the right place.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains technical terms like 'IP address' and 'ISP' in simple, everyday language. The use of analogies, such as comparing an IP address to a home address, makes these concepts understandable to someone with no prior background.",
+              "evidence": "\"Every device connected to the Internet has a unique address called an IP address (Internet Protocol address). This address is like a home address, which helps data find its way to the right place.\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers all key points: it defines what the Internet is, explains why it matters by highlighting its role in connecting people and providing access to information, and describes how it works through a sequence of steps involving devices, data packets, servers, IP addresses, and browsers.",
+              "evidence": "\"In this lesson, we will explore what the Internet is, why it matters, and how it functions.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical sequence, starting with what the Internet is, then explaining its importance, and finally detailing how it works through a series of steps. Each section builds on the previous one, creating a coherent flow that is easy to follow.",
+              "evidence": "\"Let\u2019s break this down into simple steps: 1. Devices Connect to the Internet... 2. Data Travels in Packets...\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 1,
+      "new_rules_learned": [],
+      "memory_rules_after": [],
+      "memory_rules_after_count": 0,
+      "failed_checkpoints_per_attempt": []
+    },
+    {
+      "run_id": "0e4db9b7",
+      "timestamp": "2026-08-26T12:14:39.248965",
+      "topic": "Vector Databases",
+      "total_attempts": 3,
+      "final_passed": false,
+      "final_result": "BEST_EFFORT",
+      "duration_seconds": 70.24,
+      "memory_rules_active_count": 0,
+      "memory_rules_active": [],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 498,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 498,
+            "sentence_count": 37,
+            "avg_sentence_words": 13.5,
+            "long_sentence_count": 1,
+            "long_sentence_ratio": 0.027,
+            "longest_sentences": [
+              "A vector database is a special type of database that stores data in a way that allows computers to understand it better, especially when dealing with complex information like images, sounds, or text."
+            ],
+            "academic_words": [],
+            "fk_grade": 7.2,
+            "reading_ease": 64.5
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (no_unexplained_jargon). The lesson on vector databases is well-structured and beginner-friendly, using simple language and concrete examples to explain the topic. It accurately covers what vector databases are, why they are important, and how they work, ensuring that all key points are addressed. The teaching flow is coherent, making it easy for a beginner to follow and understand.",
+          "is_final_attempt": false,
+          "lesson_preview": "# Beginner Lesson: What are Vector Databases?\n\n## What is a Vector Database?\n\nA **vector database** is a special type of database that stores data in a way that allows computers to understand it better, especially when dealing with complex information like images, sounds, or text.\n\n### What is a Vector?\n\nBefore we dive deeper into vector databases, let's understand what a **vector** is. \n\n- A **ve...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes vector databases as a type of database that stores data in a way that facilitates understanding by computers, particularly for complex data types like images, sounds, or text. This is a correct and grounded explanation of what vector databases do.",
+              "evidence": "\"A **vector database** is a special type of database that stores data in a way that allows computers to understand it better, especially when dealing with complex information like images, sounds, or text.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is simple and conversational, making it accessible to beginners. It explains concepts in everyday terms, such as describing a vector as a list of numbers, which is easy to understand.",
+              "evidence": "\"A **vector** is a list of numbers. These numbers represent information in a way that a computer can work with.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides a concrete example by walking through the process of storing images as vectors in a vector database. This example helps the reader visualize how vector databases work in practice.",
+              "evidence": "\"Imagine you have three images: a cat, a dog, and a car. Each image is processed to create a vector. Cat Image Vector: `[0.9, 0.1, 0.2]`...\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": false,
+              "reason": "1 technical term(s) appear with no explanation in the same or next sentence: vector database. Explain each in plain words the first time it appears.",
+              "evidence": "Used without explanation: vector database"
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what a vector database is, why it matters, and how it works. It explains the process of storing data as vectors and searching for similar items, providing a complete overview of the topic.",
+              "evidence": "\"A vector database helps to store this complex data in a way that makes it easy to search and find similar items.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical flow, starting with the basics of what a vector is before explaining vector databases. This ensures that the reader understands each concept before moving on to the next, maintaining coherence throughout the lesson.",
+              "evidence": "\"Before we dive deeper into vector databases, let's understand what a **vector** is.\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        },
+        {
+          "attempt_number": 2,
+          "word_count": 509,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 509,
+            "sentence_count": 39,
+            "avg_sentence_words": 13.1,
+            "long_sentence_count": 1,
+            "long_sentence_ratio": 0.026,
+            "longest_sentences": [
+              "A vector database stores data in a way that allows computers to understand it better, especially when dealing with complex information like images, sounds, or text."
+            ],
+            "academic_words": [],
+            "fk_grade": 7.1,
+            "reading_ease": 64.5
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (no_unexplained_jargon). The lesson on vector databases is well-structured and beginner-friendly, using simple language and concrete examples to explain the topic. It accurately covers what vector databases are, why they are important, and how they work, ensuring that the reader gains a comprehensive understanding. The teaching flow is coherent, with concepts introduced in a logical order, making the lesson effective for a beginner audience.",
+          "is_final_attempt": false,
+          "lesson_preview": "# Beginner Lesson: What are Vector Databases?\n\n## What is a Vector Database?\n\nA **vector database** is a special type of database. A database is a place where we store information. A vector database stores data in a way that allows computers to understand it better, especially when dealing with complex information like images, sounds, or text.\n\n### What is a Vector?\n\nBefore we dive deeper into vec...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes vector databases as storing data in a way that facilitates understanding by computers, particularly for complex data types. It correctly explains the concept of vectors as lists of numbers representing features of data, which is a foundational aspect of how vector databases function. The examples provided, such as storing and searching for similar images, are grounded in real-world applications of vector databases.",
+              "evidence": "\"A vector database stores data in a way that allows computers to understand it better, especially when dealing with complex information like images, sounds, or text.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is simple and conversational, making it accessible to beginners. It explains concepts in everyday terms, such as comparing a database to a place where information is stored, and uses analogies like a library to explain complex ideas. This approach is friendly and approachable for someone new to the topic.",
+              "evidence": "\"A vector database is a special type of database. A database is a place where we store information.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides concrete examples that walk through scenarios, such as storing images as vectors and searching for similar images. These examples help the reader visualize the process and understand how vector databases work in practice, rather than just in theory.",
+              "evidence": "\"Imagine you have three images: a cat, a dog, and a car. Each image is processed to create a vector... These vectors are then stored in the vector database.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": false,
+              "reason": "1 technical term(s) appear with no explanation in the same or next sentence: vector database. Explain each in plain words the first time it appears.",
+              "evidence": "Used without explanation: vector database"
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what a vector database is, why it matters, and how it works. It explains the process of storing data as vectors and searching for similar items, providing a complete picture of the topic. The importance of vector databases is highlighted through practical applications, ensuring the reader understands their relevance.",
+              "evidence": "\"A vector database stores data as vectors, which are lists of numbers. These databases allow for quick searches of similar items, making them useful for many applications like search engines and social media.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical progression, starting with basic concepts and building up to more complex ideas. It introduces vectors before explaining vector databases, ensuring that the reader has the necessary background knowledge. The sections connect smoothly, making the lesson easy to follow.",
+              "evidence": "\"Before we dive deeper into vector databases, let's understand what a vector is.\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        },
+        {
+          "attempt_number": 3,
+          "word_count": 509,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 509,
+            "sentence_count": 39,
+            "avg_sentence_words": 13.1,
+            "long_sentence_count": 1,
+            "long_sentence_ratio": 0.026,
+            "longest_sentences": [
+              "A vector database stores data in a way that allows computers to understand it better, especially when dealing with complex information like images, sounds, or text."
+            ],
+            "academic_words": [],
+            "fk_grade": 7.1,
+            "reading_ease": 64.5
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (no_unexplained_jargon). The lesson effectively introduces vector databases to beginners, using simple language and clear examples. It accurately explains what vector databases are, why they are important, and how they work, ensuring a comprehensive understanding. The teaching flow is logical and coherent, making the lesson accessible and engaging for the target audience.",
+          "is_final_attempt": true,
+          "lesson_preview": "# Beginner Lesson: What are Vector Databases?\n\n## What is a Vector Database?\n\nA **vector database** is a special type of database. A **database** is a place where we store information. A vector database stores data in a way that allows computers to understand it better, especially when dealing with complex information like images, sounds, or text. \n\n### What is a Vector?\n\nBefore we dive deeper int...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes vector databases as storing data in a way that facilitates understanding by computers, particularly for complex data types. It correctly explains the concept of vectors as lists of numbers representing features of data, which is a fundamental aspect of how vector databases function. The examples provided, such as storing and searching for similar images, are grounded in real-world applications of vector databases.",
+              "evidence": "\"A vector database stores data in a way that allows computers to understand it better, especially when dealing with complex information like images, sounds, or text.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is simple and conversational, making it accessible to beginners. It avoids technical jargon and explains concepts in a straightforward manner, akin to how one might explain to a friend. This approach is suitable for the target audience with limited English proficiency and no technical background.",
+              "evidence": "\"A vector database is a special type of database. A database is a place where we store information.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides concrete examples, such as storing and searching for images in a vector database. These examples walk through scenarios step-by-step, illustrating how vector databases work in practice. This approach helps the reader visualize the process and understand the application of the concepts being taught.",
+              "evidence": "\"Example Scenario: Storing Images... Imagine you have three images: a cat, a dog, and a car...\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": false,
+              "reason": "1 technical term(s) appear with no explanation in the same or next sentence: vector database. Explain each in plain words the first time it appears.",
+              "evidence": "Used without explanation: vector database"
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers all key points: it defines what a vector database is, explains why it is needed, and describes how it works through examples. Each section provides substantive information, ensuring the reader gains a comprehensive understanding of the topic.",
+              "evidence": "\"What is a Vector Database?... Why do we need Vector Databases?... How Does a Vector Database Work?\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical progression, starting with basic definitions and building up to more complex concepts. It introduces vectors before explaining vector databases, ensuring that foundational knowledge is established first. The sections connect smoothly, providing a coherent learning experience.",
+              "evidence": "\"Before we dive deeper into vector databases, let's understand what a vector is.\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 1,
+      "new_rules_learned": [],
+      "memory_rules_after": [],
+      "memory_rules_after_count": 0,
+      "failed_checkpoints_per_attempt": [
+        [
+          "no_unexplained_jargon"
+        ],
+        [
+          "no_unexplained_jargon"
+        ]
+      ]
+    },
+    {
+      "run_id": "4a8336b8",
+      "timestamp": "2026-08-26T12:15:19.114873",
+      "topic": "Neural Networks",
+      "total_attempts": 2,
+      "final_passed": true,
+      "final_result": "PASSED",
+      "duration_seconds": 38.73,
+      "memory_rules_active_count": 0,
+      "memory_rules_active": [],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 481,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 481,
+            "sentence_count": 42,
+            "avg_sentence_words": 11.5,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 7.6,
+            "reading_ease": 62.8
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (no_unexplained_jargon). The lesson effectively introduces neural networks using beginner-friendly language and clear examples. It accurately covers what neural networks are, why they matter, and how they work, ensuring a coherent teaching flow. The explanations are grounded and free of unexplained jargon, making the topic accessible to a novice audience.",
+          "is_final_attempt": false,
+          "lesson_preview": "# Lesson: Understanding Neural Networks\n\n## What is a Neural Network?\n\nA **neural network** is a type of computer system that tries to learn like a human brain. It is used in artificial intelligence (AI) to recognize patterns, make decisions, and solve problems.\n\n### Why Does it Matter?\n\nNeural networks are important because they help computers understand complex data. For example, they can recogn...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes neural networks as systems used in AI to recognize patterns and make decisions. The analogy of learning like a human brain is a common beginner-friendly simplification. The description of the input, hidden, and output layers is also accurate and grounded in how neural networks function.",
+              "evidence": "\"A neural network is a type of computer system that tries to learn like a human brain. It is used in artificial intelligence (AI) to recognize patterns, make decisions, and solve problems.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The lesson uses simple analogies and everyday language to explain complex concepts, such as comparing neural networks to a network of lights. This approach makes the content accessible to beginners.",
+              "evidence": "\"Think of a neural network like a network of connected lights. Each light can turn on or off based on certain signals it receives.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides a concrete example of teaching a neural network to recognize apples, walking through the input, hidden, and output layers. This example helps the reader visualize the process and understand how neural networks function in practice.",
+              "evidence": "\"Imagine you want to teach a neural network to recognize apples in pictures. 1. Input Layer: You give the network many pictures of apples and non-apples...\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": false,
+              "reason": "3 technical term(s) appear with no explanation in the same or next sentence: AI, artificial intelligence, neural network. Explain each in plain words the first time it appears.",
+              "evidence": "Used without explanation: AI, artificial intelligence, neural network"
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what a neural network is, why it matters, and how it works. It explains the structure and function of neural networks, their importance in processing complex data, and provides a step-by-step example of their operation.",
+              "evidence": "\"A neural network is a type of computer system that tries to learn like a human brain... Neural networks are important because they help computers understand complex data... Think of a neural network like a network of connected lights...\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical structure, starting with an introduction to neural networks, explaining their importance, and then detailing how they work with examples. This flow helps build understanding progressively without introducing concepts prematurely.",
+              "evidence": "\"What is a Neural Network? Why Does it Matter? How Does a Neural Network Work?\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        },
+        {
+          "attempt_number": 2,
+          "word_count": 497,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 497,
+            "sentence_count": 43,
+            "avg_sentence_words": 11.6,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 7.8,
+            "reading_ease": 61.6
+          },
+          "passed_count": 6,
+          "failed_count": 0,
+          "overall_pass": true,
+          "evaluation_summary": "The lesson effectively introduces neural networks using beginner-friendly language and clear examples. It accurately covers the key points of what neural networks are, why they matter, and how they work, ensuring a coherent teaching flow. The explanations are accessible, with no unexplained jargon, making it suitable for a beginner audience.",
+          "is_final_attempt": true,
+          "lesson_preview": "# Lesson: Understanding Neural Networks\n\n## What is a Neural Network?\n\nA **neural network** is a type of computer system that tries to learn like a human brain. It is used in **artificial intelligence (AI)**, which means making computers smart enough to do tasks that usually need human intelligence. These tasks include recognizing patterns, making decisions, and solving problems.\n\n### Why Does it ...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes neural networks as systems inspired by the human brain, which is a standard beginner explanation. It correctly outlines the structure and function of neural networks, including input, hidden, and output layers, and the process of training. There are no factual inaccuracies or misleading simplifications that would prevent understanding.",
+              "evidence": "\"A neural network is a type of computer system that tries to learn like a human brain.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The lesson uses simple analogies and everyday language to explain complex concepts, such as comparing neural networks to connected lights. The tone is conversational and approachable, making it accessible to beginners.",
+              "evidence": "\"Think of a neural network like a network of connected lights. Each light can turn on or off based on certain signals it receives.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides a concrete example of teaching a neural network to recognize apples, walking through the process from input to output layers. This helps the reader visualize how neural networks function in a real-world scenario.",
+              "evidence": "\"Imagine you want to teach a neural network to recognize apples in pictures.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains terms like 'training' in a straightforward manner, ensuring that jargon is not left unexplained. The explanations are clear and accessible to someone with no prior background in the subject.",
+              "evidence": "\"Neural networks learn through a process called training.\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what a neural network is, why it matters, and how it works, including a detailed explanation of the learning process. Each key point is addressed with sufficient detail for a beginner to understand.",
+              "evidence": "\"A neural network is a computer system that learns like a human brain. It has three main parts: input layer, hidden layers, and output layer.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical progression from defining neural networks to explaining their importance and functionality. Concepts build on each other in a coherent manner, without introducing ideas prematurely.",
+              "evidence": "\"Neural networks are important because they help computers understand complex data. For example, they can recognize your voice, identify pictures, or even recommend movies you might like.\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [
+            "no_unexplained_jargon"
+          ],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 2,
+      "new_rules_learned": [],
+      "memory_rules_after": [],
+      "memory_rules_after_count": 0,
+      "failed_checkpoints_per_attempt": [
+        [
+          "no_unexplained_jargon"
+        ]
+      ]
+    },
+    {
+      "run_id": "8471e1bb",
+      "timestamp": "2026-08-26T12:15:55.526864",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "total_attempts": 2,
+      "final_passed": true,
+      "final_result": "PASSED",
+      "duration_seconds": 35.27,
+      "memory_rules_active_count": 0,
+      "memory_rules_active": [],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 518,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 518,
+            "sentence_count": 44,
+            "avg_sentence_words": 11.8,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 9.2,
+            "reading_ease": 53.8
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (no_unexplained_jargon). The lesson effectively introduces RAG (Retrieval-Augmented Generation) using beginner-friendly language and clear examples. It accurately explains what RAG is, why it matters, and how it works, ensuring that all key points are covered. The teaching flow is coherent, making it easy for a beginner to follow and understand the topic.",
+          "is_final_attempt": false,
+          "lesson_preview": "# Lesson: Understanding RAG (Retrieval-Augmented Generation)\n\n## What is RAG?\n\nRAG stands for Retrieval-Augmented Generation. It is a method used in AI to create better responses by combining two important tasks: retrieving information and generating text.\n\n### Breaking It Down\n\n- **Retrieval**: This means finding and getting relevant information from a large collection of data. Think of it like s...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes RAG as a method that combines retrieval and generation to improve AI responses. It correctly outlines the process of retrieving information and generating text based on that information, which aligns with how RAG is implemented in AI systems.",
+              "evidence": "\"RAG stands for Retrieval-Augmented Generation. It is a method used in AI to create better responses by combining two important tasks: retrieving information and generating text.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is simple and conversational, making it accessible to beginners. It explains concepts in everyday terms, such as comparing retrieval to searching for a book in a library, which helps in understanding the topic without prior technical knowledge.",
+              "evidence": "\"RAG stands for Retrieval-Augmented Generation. It is a method used in AI to create better responses by combining two important tasks: retrieving information and generating text.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides a concrete example of how RAG improves AI responses by comparing a scenario with and without RAG. This example helps the reader visualize the process and understand the practical benefits of RAG in generating more accurate answers.",
+              "evidence": "\"Imagine you are asking an AI about the history of India. Without RAG, the AI might give a general answer based on what it has learned but may miss important details. With RAG, the AI can first find relevant facts from books, articles, or websites, and then use those facts to create a detailed answer.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": false,
+              "reason": "1 technical term(s) appear with no explanation in the same or next sentence: AI. Explain each in plain words the first time it appears.",
+              "evidence": "Used without explanation: AI"
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers all key points: it explains what RAG is, why it matters by improving the accuracy of AI responses, and how it works through a step-by-step process of retrieval and generation. Each aspect is addressed with sufficient detail for a beginner to understand.",
+              "evidence": "\"RAG helps AI systems give better answers by combining information retrieval with text generation. First, it finds relevant information and then uses that information to create clear and accurate responses.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical structure, starting with an introduction to RAG, followed by detailed explanations of its components, examples, and a summary. Each section builds on the previous one, ensuring a coherent flow of information that aids understanding.",
+              "evidence": "\"RAG works in two main steps: Retrieval and Generation. Step 1: Retrieval... Step 2: Generation...\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        },
+        {
+          "attempt_number": 2,
+          "word_count": 523,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 523,
+            "sentence_count": 44,
+            "avg_sentence_words": 11.9,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 9.3,
+            "reading_ease": 53.2
+          },
+          "passed_count": 6,
+          "failed_count": 0,
+          "overall_pass": true,
+          "evaluation_summary": "The lesson effectively introduces RAG (Retrieval-Augmented Generation) using beginner-friendly language and clear examples. It accurately explains what RAG is, why it matters, and how it works, ensuring the reader gains a comprehensive understanding of the topic. The teaching flow is coherent, with each section logically building on the previous one.",
+          "is_final_attempt": true,
+          "lesson_preview": "# Lesson: Understanding RAG (Retrieval-Augmented Generation)\n\n## What is RAG?\n\nRAG stands for Retrieval-Augmented Generation. It is a method used in AI, which means Artificial Intelligence, to create better responses by combining two important tasks: retrieving information and generating text.\n\n### Breaking It Down\n\n- **Retrieval**: This means finding and getting relevant information from a large ...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes RAG as a method that combines retrieval and generation to improve AI responses. The explanation of how RAG works, with retrieval and generation steps, is consistent with the actual process used in AI systems. There are no factual inaccuracies or misleading simplifications that would confuse the reader about the core concept of RAG.",
+              "evidence": "\"RAG stands for Retrieval-Augmented Generation. It is a method used in AI, which means Artificial Intelligence, to create better responses by combining two important tasks: retrieving information and generating text.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is simple and conversational, suitable for a beginner. Terms like 'retrieval' and 'generation' are explained in everyday language, and the tone is friendly and approachable, akin to explaining something to a friend rather than reading from a textbook.",
+              "evidence": "\"RAG stands for Retrieval-Augmented Generation. It is a method used in AI, which means Artificial Intelligence, to create better responses by combining two important tasks: retrieving information and generating text.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides a concrete example of how RAG improves AI responses by comparing a scenario with and without RAG. This example helps the reader visualize the process and understand the practical benefits of RAG in generating more accurate and detailed answers.",
+              "evidence": "\"Imagine you are asking an AI about the history of India. Without RAG, the AI might give a general answer based on what it has learned but may miss important details. With RAG, the AI can first find relevant facts from books, articles, or websites, and then use those facts to create a detailed answer.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains all technical terms in simple language. Terms like 'retrieval', 'augmented', and 'generation' are broken down into understandable concepts, ensuring that the reader is not left confused by jargon.",
+              "evidence": "\"RAG stands for Retrieval-Augmented Generation. It is a method used in AI, which means Artificial Intelligence, to create better responses by combining two important tasks: retrieving information and generating text.\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what RAG is, why it matters, and how it works. It explains the importance of RAG in improving AI responses and provides a step-by-step explanation of the retrieval and generation process, ensuring the reader understands the complete picture.",
+              "evidence": "\"RAG is important because it helps AI systems give more accurate and useful answers. Instead of just guessing or making things up, RAG allows the AI to pull in real information from a database or a collection of texts.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical structure, starting with an introduction to RAG, followed by its importance, and then a detailed explanation of how it works. Each section builds on the previous one, ensuring a smooth flow of information that is easy for the reader to follow.",
+              "evidence": "\"RAG works in two main steps: Retrieval and Generation. Step 1: Retrieval... Step 2: Generation...\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [
+            "no_unexplained_jargon"
+          ],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 2,
+      "new_rules_learned": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "memory_rules_after": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "memory_rules_after_count": 1,
+      "failed_checkpoints_per_attempt": [
+        [
+          "no_unexplained_jargon"
+        ]
+      ]
+    },
+    {
+      "run_id": "afd6ebae",
+      "timestamp": "2026-08-26T12:32:07.436096",
+      "topic": "Vector Databases",
+      "total_attempts": 2,
+      "final_passed": true,
+      "final_result": "PASSED",
+      "duration_seconds": 38.56,
+      "memory_rules_active_count": 1,
+      "memory_rules_active": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 463,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 463,
+            "sentence_count": 44,
+            "avg_sentence_words": 10.5,
+            "long_sentence_count": 1,
+            "long_sentence_ratio": 0.023,
+            "longest_sentences": [
+              "Now that you understand what vector databases are, you can explore more about how to use them in real-world applications, especially in AI and machine learning."
+            ],
+            "academic_words": [],
+            "fk_grade": 7.7,
+            "reading_ease": 64.8
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (no_unexplained_jargon). The lesson on vector databases is well-structured and beginner-friendly, using simple language and concrete examples to explain the concept. It accurately covers what vector databases are, why they are important, and how they work, ensuring that all key points are addressed. The teaching flow is coherent, making it easy for a beginner to follow and understand the topic.",
+          "is_final_attempt": false,
+          "lesson_preview": "# Lesson: Understanding Vector Databases\n\n## What is a Vector Database?\n\nA **vector database** is a special type of database that stores data in the form of vectors. \n\n### What is a Vector?\n\nA **vector** is a way to represent data as a list of numbers. Imagine if you want to describe a fruit. You could use numbers to represent its features:\n\n- **Color**: 1 for red, 0 for green\n- **Size**: 5 (a sco...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes vector databases as storing data in the form of vectors. It also correctly explains the concept of vectors and how they are used to represent data features. The explanation of how vector databases work, including storing data and searching for similar items, is grounded in reality and reflects actual processes used in vector databases.",
+              "evidence": "\"A **vector database** is a special type of database that stores data in the form of vectors.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is simple and conversational, making it accessible to beginners. The use of everyday examples, like describing a fruit, helps in making the concept relatable and easy to understand for someone with limited technical background.",
+              "evidence": "\"A **vector** is a way to represent data as a list of numbers. Imagine if you want to describe a fruit. You could use numbers to represent its features.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides a concrete example of how vectors are used to represent data, using the example of describing a fruit. It walks through the process of assigning numerical values to features and forming a vector, which helps the reader see the idea in action rather than just being described.",
+              "evidence": "\"Imagine if you want to describe a fruit. You could use numbers to represent its features: - **Color**: 1 for red, 0 for green - **Size**: 5 (a score from 1 to 10) - **Sweetness**: 8 (a score from 1 to 10) So, an apple could be represented as a vector: **[1, 5, 8]**.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": false,
+              "reason": "2 technical term(s) appear with no explanation in the same or next sentence: AI, machine learning. Explain each in plain words the first time it appears.",
+              "evidence": "Used without explanation: AI, machine learning"
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what vector databases are, why they matter, and how they work. It explains the importance of vector databases in searching and machine learning, and provides a step-by-step breakdown of how they store and search data, ensuring all key points are addressed.",
+              "evidence": "\"Vector databases are important for tasks such as: - **Searching**: They help you find similar items quickly. - **Machine Learning**: They are used in AI to store complex data like images, text, or sounds.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical sequence, starting with the definition of vector databases, moving to their importance, and then explaining how they work in a step-by-step manner. Each section builds on the previous one, ensuring a coherent flow that aids understanding.",
+              "evidence": "\"Let's break it down step by step. ### Step 1: Storing Data ### Step 2: Searching for Similar Items ### Step 3: Returning Results\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        },
+        {
+          "attempt_number": 2,
+          "word_count": 487,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 487,
+            "sentence_count": 46,
+            "avg_sentence_words": 10.6,
+            "long_sentence_count": 1,
+            "long_sentence_ratio": 0.022,
+            "longest_sentences": [
+              "Now that you understand what vector databases are, you can explore more about how to use them in real-world applications, especially in AI and machine learning."
+            ],
+            "academic_words": [],
+            "fk_grade": 7.8,
+            "reading_ease": 64.2
+          },
+          "passed_count": 6,
+          "failed_count": 0,
+          "overall_pass": true,
+          "evaluation_summary": "The lesson on vector databases is well-structured and beginner-friendly, using simple language and concrete examples to explain complex concepts. It accurately covers what vector databases are, why they are important, and how they work, ensuring a comprehensive understanding for the reader.",
+          "is_final_attempt": true,
+          "lesson_preview": "# Lesson: Understanding Vector Databases\n\n## What is a Vector Database?\n\nA **vector database** is a special type of database that stores data in the form of vectors. \n\n### What is a Vector?\n\nA **vector** is a way to represent data as a list of numbers. Imagine if you want to describe a fruit. You could use numbers to represent its features:\n\n- **Color**: 1 for red, 0 for green\n- **Size**: 5 (a sco...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes vector databases as storing data in the form of vectors and using these vectors to find similar items through similarity calculations. This is a correct and grounded explanation of how vector databases function in practice.",
+              "evidence": "\"Vector databases are important for tasks such as: Searching: They help you find similar items quickly. For example, if you want to find fruits similar to an apple, the database can compare the vectors.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is simple and conversational, using everyday examples like describing a fruit to explain complex concepts. This makes the lesson accessible and easy to understand for beginners.",
+              "evidence": "\"A vector is a way to represent data as a list of numbers. Imagine if you want to describe a fruit. You could use numbers to represent its features: Color: 1 for red, 0 for green...\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides a concrete example of representing a fruit as a vector, walking through the process of assigning numerical values to its features. This helps the reader visualize and understand the concept of vectors in a practical context.",
+              "evidence": "\"Imagine if you want to describe a fruit. You could use numbers to represent its features: Color: 1 for red, 0 for green... So, an apple could be represented as a vector: [1, 5, 8].\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains terms like 'AI' and 'machine learning' in simple language, ensuring that jargon is not left unexplained. This makes the content accessible to someone with no prior background in the subject.",
+              "evidence": "\"Machine Learning: This is a part of AI, which stands for Artificial Intelligence. AI is when computers are designed to think and learn like humans.\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what vector databases are, why they matter (e.g., for searching and machine learning), and how they work through a step-by-step explanation of storing and searching data. This comprehensive coverage ensures the reader understands the key aspects of vector databases.",
+              "evidence": "\"Vector databases are important for tasks such as: Searching... Machine Learning... How Do Vector Databases Work? Let's break it down step by step.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical progression from defining vector databases, explaining their importance, and detailing their operation. Each section builds on the previous one, creating a coherent flow that aids understanding.",
+              "evidence": "\"What is a Vector Database?... Why Do Vector Databases Matter?... How Do Vector Databases Work?...\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [
+            "no_unexplained_jargon"
+          ],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 2,
+      "new_rules_learned": [],
+      "memory_rules_after": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "memory_rules_after_count": 1,
+      "failed_checkpoints_per_attempt": [
+        [
+          "no_unexplained_jargon"
+        ]
+      ]
+    },
+    {
+      "run_id": "0a9ea40d",
+      "timestamp": "2026-08-26T12:33:06.609559",
+      "topic": "Machine Learning",
+      "total_attempts": 3,
+      "final_passed": false,
+      "final_result": "BEST_EFFORT",
+      "duration_seconds": 43.87,
+      "memory_rules_active_count": 1,
+      "memory_rules_active": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 501,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 501,
+            "sentence_count": 45,
+            "avg_sentence_words": 11.1,
+            "long_sentence_count": 1,
+            "long_sentence_ratio": 0.022,
+            "longest_sentences": [
+              "When you give it a new picture, it can say whether it thinks the picture is a cat or a dog based on what it learned."
+            ],
+            "academic_words": [],
+            "fk_grade": 7.8,
+            "reading_ease": 62.3
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (no_unexplained_jargon). The lesson effectively introduces machine learning to beginners, using simple language and clear examples to explain what it is, why it matters, and how it works. It avoids jargon and follows a logical teaching flow, making it accessible and informative for someone new to the topic.",
+          "is_final_attempt": false,
+          "lesson_preview": "# Lesson: Introduction to Machine Learning\n\n## What is Machine Learning?\n\nMachine Learning is a way for computers to learn from data. Instead of being told exactly what to do, a computer can look at examples and learn patterns to make decisions on its own. \n\n### Example\nImagine you want to teach a computer to recognize pictures of cats and dogs. Instead of saying, \"This is a cat\" and \"This is a do...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes machine learning as a process where computers learn from data by identifying patterns, which is a correct and simplified explanation of supervised learning. The examples provided, such as recognizing cats and dogs, align with how machine learning models are trained and used to make predictions.",
+              "evidence": "\"Machine Learning is a way for computers to learn from data. Instead of being told exactly what to do, a computer can look at examples and learn patterns to make decisions on its own.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is conversational and approachable, using simple analogies and everyday scenarios to explain complex concepts. This makes it accessible to beginners and aligns with the criterion of using everyday English and a friendly tone.",
+              "evidence": "\"Imagine you want to teach a computer to recognize pictures of cats and dogs. Instead of saying, 'This is a cat' and 'This is a dog' for every picture, you show it many examples.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides a clear, step-by-step example of how machine learning works, using the scenario of distinguishing between cats and dogs. This walkthrough helps the reader visualize the process and understand the application of machine learning concepts.",
+              "evidence": "\"Example Walkthrough: 1. Data Collection: You gather 100 pictures of cats and 100 pictures of dogs. 2. Training the Model: You show these pictures to the computer. It notices that cats usually have pointy ears and dogs have floppy ears. 3. Making Predictions: Now, you show the computer a new picture of a cat. It looks at the ears and says, 'This is a cat!'\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": false,
+              "reason": "1 technical term(s) appear with no explanation in the same or next sentence: model. Explain each in plain words the first time it appears.",
+              "evidence": "Used without explanation: model"
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what machine learning is, why it matters, and how it works through a structured explanation of the process. Each section is supported by examples and explanations, ensuring that all key points are addressed comprehensively.",
+              "evidence": "\"Machine Learning works in three main steps: 1. Data Collection... 2. Training the Model... 3. Making Predictions...\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical progression from defining machine learning to explaining its importance and detailing the process with examples. Each section builds on the previous one, creating a coherent flow that aids understanding.",
+              "evidence": "\"Machine Learning is a way for computers to learn from data... How Does Machine Learning Work?... Example Walkthrough...\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        },
+        {
+          "attempt_number": 2,
+          "word_count": 501,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 501,
+            "sentence_count": 45,
+            "avg_sentence_words": 11.1,
+            "long_sentence_count": 1,
+            "long_sentence_ratio": 0.022,
+            "longest_sentences": [
+              "When you give it a new picture, it can say whether it thinks the picture is a cat or a dog based on what it learned."
+            ],
+            "academic_words": [],
+            "fk_grade": 7.8,
+            "reading_ease": 62.3
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (no_unexplained_jargon). The lesson effectively introduces machine learning to beginners, using simple language and clear examples to explain what it is, why it matters, and how it works. It avoids jargon and follows a logical teaching flow, making it accessible and understandable for someone new to the topic.",
+          "is_final_attempt": false,
+          "lesson_preview": "# Lesson: Introduction to Machine Learning\n\n## What is Machine Learning?\n\nMachine Learning is a way for computers to learn from data. Instead of being told exactly what to do, a computer can look at examples and learn patterns to make decisions on its own. \n\n### Example\nImagine you want to teach a computer to recognize pictures of cats and dogs. Instead of saying, \"This is a cat\" and \"This is a do...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes machine learning as a process where computers learn from data by identifying patterns, which is a correct and simplified explanation of supervised learning. The examples provided, such as recognizing cats and dogs, align with how machine learning models are trained and used to make predictions.",
+              "evidence": "\"Machine Learning is a way for computers to learn from data. Instead of being told exactly what to do, a computer can look at examples and learn patterns to make decisions on its own.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is conversational and approachable, using simple analogies and everyday scenarios to explain complex concepts. This makes it accessible to beginners and aligns with the criterion of using everyday English and a friendly tone.",
+              "evidence": "\"Imagine you want to teach a computer to recognize pictures of cats and dogs. Instead of saying, 'This is a cat' and 'This is a dog' for every picture, you show it many examples.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides a clear, step-by-step example of how machine learning works, using the scenario of distinguishing between cats and dogs. This walkthrough helps the reader visualize the process and understand the application of machine learning concepts.",
+              "evidence": "\"Example Walkthrough: 1. Data Collection: You gather 100 pictures of cats and 100 pictures of dogs. 2. Training the Model: You show these pictures to the computer. It notices that cats usually have pointy ears and dogs have floppy ears. 3. Making Predictions: Now, you show the computer a new picture of a cat. It looks at the ears and says, 'This is a cat!'\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": false,
+              "reason": "1 technical term(s) appear with no explanation in the same or next sentence: model. Explain each in plain words the first time it appears.",
+              "evidence": "Used without explanation: model"
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what machine learning is, why it matters, and how it works through a structured explanation and examples. Each section provides substantive content that addresses the key points required for a foundational understanding of machine learning.",
+              "evidence": "\"Machine Learning works in three main steps: 1. Data Collection... 2. Training the Model... 3. Making Predictions...\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical progression from defining machine learning, explaining its importance, and detailing the process of how it works. Each section builds on the previous one, creating a coherent flow that aids understanding.",
+              "evidence": "\"Machine Learning is a way for computers to learn from data... Why Does Machine Learning Matter?... How Does Machine Learning Work?...\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        },
+        {
+          "attempt_number": 3,
+          "word_count": 509,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 509,
+            "sentence_count": 46,
+            "avg_sentence_words": 11.1,
+            "long_sentence_count": 1,
+            "long_sentence_ratio": 0.022,
+            "longest_sentences": [
+              "When you give it a new picture, it can say whether it thinks the picture is a cat or a dog based on what it learned."
+            ],
+            "academic_words": [],
+            "fk_grade": 7.8,
+            "reading_ease": 61.8
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (no_unexplained_jargon). The lesson effectively introduces machine learning to beginners, using simple language and clear examples to explain what it is, why it matters, and how it works. It avoids jargon and follows a logical teaching flow, making it accessible and understandable for someone with no prior background in the field.",
+          "is_final_attempt": true,
+          "lesson_preview": "# Lesson: Introduction to Machine Learning\n\n## What is Machine Learning?\n\nMachine Learning is a way for computers to learn from data. Instead of being told exactly what to do, a computer can look at examples and learn patterns to make decisions on its own. \n\n### Example\nImagine you want to teach a computer to recognize pictures of cats and dogs. Instead of saying, \"This is a cat\" and \"This is a do...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes machine learning as a process where computers learn from data by identifying patterns, which is a correct and simplified explanation of supervised learning. The examples provided, such as recognizing pictures of cats and dogs, are grounded in real-world applications of machine learning.",
+              "evidence": "\"Machine Learning is a way for computers to learn from data. Instead of being told exactly what to do, a computer can look at examples and learn patterns to make decisions on its own.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is conversational and approachable, using simple analogies and everyday scenarios to explain complex concepts. This makes it accessible to beginners and aligns with the criterion of using everyday English.",
+              "evidence": "\"Imagine you want to teach a computer to recognize pictures of cats and dogs. Instead of saying, 'This is a cat' and 'This is a dog' for every picture, you show it many examples.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides a clear, step-by-step example of how machine learning works, using the scenario of distinguishing between cats and dogs. This walkthrough helps the reader visualize the process, fulfilling the requirement for teaching by example.",
+              "evidence": "\"Example Walkthrough: 1. Data Collection: You gather 100 pictures of cats and 100 pictures of dogs. 2. Training the Model: You show these pictures to the computer. It notices that cats usually have pointy ears and dogs have floppy ears. A model helps the computer remember these differences. 3. Making Predictions: Now, you show the computer a new picture of a cat. It looks at the ears and says, 'This is a cat!'\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": false,
+              "reason": "1 technical term(s) appear with no explanation in the same or next sentence: model. Explain each in plain words the first time it appears.",
+              "evidence": "Used without explanation: model"
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what machine learning is, why it matters, and how it works through a clear explanation of the process. Each section is well-developed, providing a comprehensive overview of the topic.",
+              "evidence": "\"Machine Learning works in three main steps: 1. Data Collection... 2. Training the Model... 3. Making Predictions...\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical progression from defining machine learning, explaining its importance, and detailing the process of how it works. Each section builds on the previous one, creating a coherent teaching flow.",
+              "evidence": "\"Machine Learning is a way for computers to learn from data... Why Does Machine Learning Matter?... How Does Machine Learning Work?...\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 1,
+      "new_rules_learned": [],
+      "memory_rules_after": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "memory_rules_after_count": 1,
+      "failed_checkpoints_per_attempt": [
+        [
+          "no_unexplained_jargon"
+        ],
+        [
+          "no_unexplained_jargon"
+        ]
+      ]
+    },
+    {
+      "run_id": "999be4e4",
+      "timestamp": "2026-08-26T12:33:22.657366",
+      "topic": "How Vaccines Work",
+      "total_attempts": 1,
+      "final_passed": true,
+      "final_result": "PASSED",
+      "duration_seconds": 14.86,
+      "memory_rules_active_count": 1,
+      "memory_rules_active": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 434,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 434,
+            "sentence_count": 33,
+            "avg_sentence_words": 13.2,
+            "long_sentence_count": 1,
+            "long_sentence_ratio": 0.03,
+            "longest_sentences": [
+              "This means that even those who cannot get vaccinated (like very young babies or people with certain illnesses) are also protected because the disease has fewer chances to spread."
+            ],
+            "academic_words": [],
+            "fk_grade": 7.1,
+            "reading_ease": 67.4
+          },
+          "passed_count": 6,
+          "failed_count": 0,
+          "overall_pass": true,
+          "evaluation_summary": "The lesson on 'How Vaccines Work' is well-structured and beginner-friendly, using simple language and relatable examples to explain complex concepts. It accurately covers what vaccines are, why they are important, and how they function, ensuring that all key points are addressed. The teaching flow is coherent, making it easy for a beginner to understand the topic.",
+          "is_final_attempt": true,
+          "lesson_preview": "# How Vaccines Work\n\nIn this lesson, we will learn about vaccines. We will see what they are, why they are important, and how they help keep us healthy.\n\n## What is a Vaccine?\n\nA **vaccine** is a special medicine that helps our body fight off certain diseases. It usually contains a small part of a germ (like a virus or bacteria) that causes the disease. This part is not strong enough to make us si...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes vaccines as containing a harmless part of a germ to train the immune system, which is a correct simplification of how vaccines work. The explanation of herd immunity and the immune response process is also accurate and grounded in real immunological principles.",
+              "evidence": "\"A vaccine is a special medicine that helps our body fight off certain diseases. It usually contains a small part of a germ (like a virus or bacteria) that causes the disease. This part is not strong enough to make us sick, but it teaches our body how to protect itself.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used throughout the lesson is simple and conversational, using analogies like sports practice to explain complex concepts. This makes the lesson accessible and relatable for beginners.",
+              "evidence": "\"Think of a vaccine like a training session for our immune system (the part of our body that fights off sickness). Just like you practice for a sport, a vaccine helps your body practice for when it meets the real germ.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides concrete examples, such as comparing vaccines to sports practice and herd immunity to a basketball team, which help illustrate the concepts in a relatable way. These examples walk through scenarios that make the abstract ideas more tangible.",
+              "evidence": "\"Think of a vaccine like a training session for our immune system... Imagine a basketball team. If most players are good at blocking shots, it is harder for the other team to score.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains terms like 'antibodies' and 'immune memory' in simple language, ensuring that jargon is not left unexplained. The explanations are clear and understandable for someone with no background in the subject.",
+              "evidence": "\"Your immune system recognizes this part as something that should not be there. It starts to fight it off. During this fight, your body makes antibodies. Antibodies are special proteins that help kill germs.\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers all key points: it explains what vaccines are, why they matter (preventing diseases and creating herd immunity), and how they work (exposure, response, memory). Each section provides substantive information rather than just restating definitions.",
+              "evidence": "\"In this lesson, we will learn about vaccines. We will see what they are, why they are important, and how they help keep us healthy.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical flow, starting with what vaccines are, moving to their importance, and then explaining the process of how they work. Each section builds on the previous one, creating a coherent narrative that is easy to follow.",
+              "evidence": "\"1. Exposure: When you get a vaccine, your body is exposed to a small, harmless part of the germ... 2. Response: Your immune system recognizes this part as something that should not be there... 3. Memory: After the fight, your body remembers how to make those antibodies.\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 1,
+      "new_rules_learned": [],
+      "memory_rules_after": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "memory_rules_after_count": 1,
+      "failed_checkpoints_per_attempt": []
+    },
+    {
+      "run_id": "eb1d5a45",
+      "timestamp": "2026-08-26T12:33:49.931855",
+      "topic": "Compound Interest",
+      "total_attempts": 1,
+      "final_passed": true,
+      "final_result": "PASSED",
+      "duration_seconds": 14.49,
+      "memory_rules_active_count": 1,
+      "memory_rules_active": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 523,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 523,
+            "sentence_count": 51,
+            "avg_sentence_words": 10.3,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 5.3,
+            "reading_ease": 77.1
+          },
+          "passed_count": 6,
+          "failed_count": 0,
+          "overall_pass": true,
+          "evaluation_summary": "The lesson on compound interest is well-structured and beginner-friendly. It accurately explains the concept using simple language and provides a clear example to illustrate how compound interest works. Key terms are explained without jargon, and the lesson covers all essential points, including what compound interest is, why it matters, and how it functions. The teaching flow is logical and coherent, making it easy for a beginner to follow and understand.",
+          "is_final_attempt": true,
+          "lesson_preview": "# Understanding Compound Interest\n\n## What is Compound Interest?\n\n**Compound interest** is a way to earn money on your savings or investments. It means that you earn interest not just on your original amount of money, but also on the interest that has already been added. \n\n### Example of Compound Interest\n\nImagine you have \u20b91,000 saved in a bank account. The bank offers you a compound interest rat...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes compound interest as earning interest on both the initial principal and the accumulated interest from previous periods. The example calculations provided are correct and demonstrate the concept accurately.",
+              "evidence": "\"Compound interest is a way to earn money on your savings or investments. It means that you earn interest not just on your original amount of money, but also on the interest that has already been added.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used is simple and conversational, making it accessible to someone with limited English proficiency. The tone is friendly and explains the concept as if talking to a friend, which is suitable for beginners.",
+              "evidence": "\"Imagine you have \u20b91,000 saved in a bank account. The bank offers you a compound interest rate of 5% per year. Here\u2019s how it works:\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides a clear, step-by-step example of how compound interest works over three years, showing the calculations and how the interest accumulates. This concrete example helps the reader understand the concept in practice.",
+              "evidence": "\"Imagine you have \u20b91,000 saved in a bank account. The bank offers you a compound interest rate of 5% per year. Here\u2019s how it works:...\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains terms like 'Principal', 'Interest Rate', and 'Compounding Frequency' in simple language, ensuring that there is no unexplained jargon. Each term is defined in a way that is understandable to someone with no prior background.",
+              "evidence": "\"Principal: This is the original amount of money you save or invest. In our example, it's \u20b91,000.\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what compound interest is, why it is important, and how it works, including the factors that affect it. It provides a real-life scenario to illustrate its importance and explains the process clearly.",
+              "evidence": "\"Compound interest is important because it helps your money grow faster. The longer you save or invest, the more you benefit from compound interest.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical progression, starting with the definition, followed by an example, then explaining its importance, and finally detailing how it works. Each section builds on the previous one, creating a coherent flow.",
+              "evidence": "\"What is Compound Interest? -> Example of Compound Interest -> Why is Compound Interest Important? -> How Does Compound Interest Work?\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 1,
+      "new_rules_learned": [],
+      "memory_rules_after": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "memory_rules_after_count": 1,
+      "failed_checkpoints_per_attempt": []
+    },
+    {
+      "run_id": "8f952cf6",
+      "timestamp": "2026-08-26T12:36:37.190785",
+      "topic": "Machine Learning",
+      "total_attempts": 1,
+      "final_passed": true,
+      "final_result": "PASSED",
+      "duration_seconds": 16.82,
+      "memory_rules_active_count": 1,
+      "memory_rules_active": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 533,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 533,
+            "sentence_count": 52,
+            "avg_sentence_words": 10.2,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 7.3,
+            "reading_ease": 67.6
+          },
+          "passed_count": 6,
+          "failed_count": 0,
+          "overall_pass": true,
+          "evaluation_summary": "The lesson provides a clear and accurate introduction to machine learning, using beginner-friendly language and concrete examples to illustrate key concepts. It covers what machine learning is, why it matters, and how it works, with a logical flow that builds understanding progressively. The lesson is well-suited for a beginner audience.",
+          "is_final_attempt": true,
+          "lesson_preview": "# Lesson: Introduction to Machine Learning\n\n## What is Machine Learning?\n\nMachine Learning (ML) is a way for computers to learn from data. Instead of being programmed with specific instructions, machines can use data to improve their performance over time. \n\n**Example:** Imagine a child learning to recognize fruits. At first, they might not know what an apple is. But if you show them many pictures...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes machine learning as a process where computers learn from data rather than being explicitly programmed. The steps outlined in the 'How Does Machine Learning Work?' section are simplified but correctly represent the general process of machine learning, including data collection, preparation, model selection, training, testing, and improvement.",
+              "evidence": "\"Machine Learning (ML) is a way for computers to learn from data. Instead of being programmed with specific instructions, machines can use data to improve their performance over time.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is conversational and uses simple analogies, such as comparing machine learning to a child learning to recognize fruits. This approach makes the content accessible and relatable to beginners.",
+              "evidence": "\"Imagine a child learning to recognize fruits. At first, they might not know what an apple is. But if you show them many pictures of apples and say, 'This is an apple,' they will start to learn.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides concrete examples to illustrate the concepts of machine learning. It uses the analogy of a child learning to recognize fruits and a machine learning to recognize cats, walking through the process of data collection, preparation, and model training.",
+              "evidence": "\"Example: Imagine a child learning to recognize fruits... Example: If we want a machine to learn about cats, we need many pictures of cats.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains terms like 'model' in simple language, comparing it to a set of rules or a formula. This ensures that jargon is not left unexplained and is accessible to someone with no background in the subject.",
+              "evidence": "\"A model is like a set of rules or a formula that helps the machine learn from the data.\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what machine learning is, why it matters, and how it works. It explains the importance of machine learning in various fields and provides a step-by-step breakdown of the process, ensuring all key points are addressed.",
+              "evidence": "\"Machine Learning (ML) is a way for computers to learn from data... Machine learning is important because it helps computers make decisions and predictions... Machine learning works through a process that can be broken down into a few simple steps.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical progression, starting with an introduction to what machine learning is, followed by its importance, and then detailing the process of how it works. Each section builds on the previous one, creating a coherent teaching flow.",
+              "evidence": "\"Machine Learning (ML) is a way for computers to learn from data... Machine learning is important because it helps computers make decisions... Machine learning works through a process that can be broken down into a few simple steps.\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 1,
+      "new_rules_learned": [],
+      "memory_rules_after": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "memory_rules_after_count": 1,
+      "failed_checkpoints_per_attempt": []
+    },
+    {
+      "run_id": "7e7c81e6",
+      "timestamp": "2026-08-26T12:37:03.492548",
+      "topic": "Blockchain",
+      "total_attempts": 1,
+      "final_passed": true,
+      "final_result": "PASSED",
+      "duration_seconds": 24.94,
+      "memory_rules_active_count": 1,
+      "memory_rules_active": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 501,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 501,
+            "sentence_count": 40,
+            "avg_sentence_words": 12.5,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 7.5,
+            "reading_ease": 65.9
+          },
+          "passed_count": 6,
+          "failed_count": 0,
+          "overall_pass": true,
+          "evaluation_summary": "The lesson on blockchain is well-structured and beginner-friendly, using simple language and clear examples to explain the concept. It accurately covers what blockchain is, why it matters, and how it works, ensuring a coherent teaching flow. All technical terms are explained in an understandable manner, making it suitable for a reader with no prior background in technology.",
+          "is_final_attempt": true,
+          "lesson_preview": "# Lesson: Understanding Blockchain\n\n## What is Blockchain?\n\nBlockchain is a technology that allows information to be stored in a way that is secure and easy to share. Imagine a digital notebook that everyone can see but no one can change without permission. Each page of this notebook is called a \"block,\" and all the pages together form a \"chain.\" That's why it's called \"blockchain.\"\n\n### Why Does ...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes blockchain as a secure and shared digital ledger. It correctly explains the concept of blocks and chains, decentralization, and the role of hashes in security. The example of sending money using blockchain is also accurate in illustrating how transactions are verified and added to the chain. There are no factual inaccuracies or misleading simplifications that would prevent understanding of the basic concept of blockchain.",
+              "evidence": "\"Blockchain is a technology that allows information to be stored in a way that is secure and easy to share. Imagine a digital notebook that everyone can see but no one can change without permission.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is simple and conversational, making it accessible to beginners. The use of analogies, such as comparing blockchain to a digital notebook, helps in understanding the concept. The tone is friendly and explanatory, suitable for someone with limited English vocabulary.",
+              "evidence": "\"Imagine a digital notebook that everyone can see but no one can change without permission. Each page of this notebook is called a 'block,' and all the pages together form a 'chain.'\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides a concrete example of sending money using blockchain, walking through each step of the process. This example helps the reader visualize how blockchain operates in a real-world scenario, reinforcing the concepts explained earlier in the lesson.",
+              "evidence": "\"Imagine you want to send 500 Indian Rupees (INR) to your friend. Here\u2019s how it works with blockchain:...\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains technical terms like 'block,' 'chain,' 'decentralization,' and 'hash' in simple language. The explanations are clear and avoid circular definitions, making the concepts understandable to someone with no prior background in technology.",
+              "evidence": "\"Each block has a special code called a 'hash.' A hash is like a fingerprint for the block.\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers all key points: it explains what blockchain is, why it matters, and how it works. The 'How Does Blockchain Work?' section provides a step-by-step breakdown of the process, ensuring the reader understands the sequence of events in a blockchain transaction.",
+              "evidence": "\"Blockchain is a technology that allows information to be stored in a way that is secure and easy to share... Blockchain is important because it helps keep information safe and trustworthy... Let\u2019s break down how blockchain works step by step.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical progression, starting with the definition of blockchain, followed by its importance, and then explaining how it works with a practical example. Each section builds on the previous one, creating a coherent flow that aids understanding.",
+              "evidence": "\"What is Blockchain?... Why Does Blockchain Matter?... How Does Blockchain Work?... Example: Sending Money Using Blockchain\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 1,
+      "new_rules_learned": [],
+      "memory_rules_after": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "memory_rules_after_count": 1,
+      "failed_checkpoints_per_attempt": []
+    },
+    {
+      "run_id": "38bd4478",
+      "timestamp": "2026-08-26T12:37:20.768920",
+      "topic": "How GPS Works",
+      "total_attempts": 1,
+      "final_passed": true,
+      "final_result": "PASSED",
+      "duration_seconds": 15.99,
+      "memory_rules_active_count": 1,
+      "memory_rules_active": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 462,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 462,
+            "sentence_count": 47,
+            "avg_sentence_words": 9.8,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 6.4,
+            "reading_ease": 71.0
+          },
+          "passed_count": 6,
+          "failed_count": 0,
+          "overall_pass": true,
+          "evaluation_summary": "The lesson on how GPS works is well-structured and beginner-friendly. It accurately explains the technology using simple language and relatable examples. All key points are covered, and the teaching flow is coherent, making it easy for a novice to understand the concept of GPS.",
+          "is_final_attempt": true,
+          "lesson_preview": "# How GPS Works\n\n## What is GPS?\n\nGPS stands for **Global Positioning System**. It is a technology that helps us find our location on Earth. Imagine you're lost in a new city. GPS can tell you exactly where you are and how to get to your destination. \n\n### Why is GPS Important?\n\nGPS is important for many reasons:\n- **Navigation**: It helps drivers find their way.\n- **Tracking**: It helps people ke...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes the basic functioning of GPS, including the use of satellites to determine location through signal timing and triangulation. The simplifications made, such as comparing satellites to lamps, are honest and do not distort the actual process.",
+              "evidence": "\"GPS works using a system of satellites, which are special machines that orbit the Earth.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used throughout the lesson is conversational and approachable, making it easy for a beginner to understand. It uses everyday scenarios and simple analogies to explain complex concepts.",
+              "evidence": "\"Imagine you're lost in a new city. GPS can tell you exactly where you are and how to get to your destination.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson includes a concrete example of using GPS to find a coffee shop, walking through the steps of how GPS signals are received and used to calculate location and provide directions. This helps the reader visualize the process in a real-world context.",
+              "evidence": "\"Let\u2019s say you are in a park and want to find the nearest coffee shop. Here\u2019s how GPS helps...\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains terms like 'triangulation' in simple language, ensuring that the reader can understand without prior knowledge. The explanations are clear and avoid circular definitions.",
+              "evidence": "\"Triangulation: Using the distances to at least four satellites, your device can find your exact location on the Earth.\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what GPS is, why it is important, and how it works, including a detailed breakdown of the process involving satellites and signal timing. Each key point is addressed with sufficient detail for a beginner.",
+              "evidence": "\"GPS is important for many reasons: Navigation, Tracking, Emergency Services.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical sequence, starting with what GPS is, why it matters, and then explaining how it works in a step-by-step manner. Each section builds on the previous one, creating a coherent flow of information.",
+              "evidence": "\"Step 1: Satellites in Space... Step 2: Signals from Satellites... Step 3: Calculating Your Position...\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 1,
+      "new_rules_learned": [],
+      "memory_rules_after": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "memory_rules_after_count": 1,
+      "failed_checkpoints_per_attempt": []
+    },
+    {
+      "run_id": "36e2dc65",
+      "timestamp": "2026-08-26T12:38:04.069197",
+      "topic": "Large Language Models",
+      "total_attempts": 2,
+      "final_passed": true,
+      "final_result": "PASSED",
+      "duration_seconds": 42.05,
+      "memory_rules_active_count": 1,
+      "memory_rules_active": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 567,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 567,
+            "sentence_count": 41,
+            "avg_sentence_words": 13.8,
+            "long_sentence_count": 2,
+            "long_sentence_ratio": 0.049,
+            "longest_sentences": [
+              "If you ask, \"What is the capital of India?\" the LLM looks at the context and generates the response, \"The capital of India is New Delhi.\" It predicts this answer based on its training data.",
+              "If you say, \"I want to learn about apples,\" the model needs to know if you mean the fruit, the tech company (Apple), or something else."
+            ],
+            "academic_words": [],
+            "fk_grade": 7.5,
+            "reading_ease": 65.2
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (no_unexplained_jargon). The lesson on Large Language Models is well-structured and beginner-friendly, using simple language and relatable examples to explain complex concepts. It accurately covers what LLMs are, why they matter, and how they work, ensuring that a reader with no prior background can understand the topic. The teaching flow is coherent, with each section logically building on the previous one.",
+          "is_final_attempt": false,
+          "lesson_preview": "# Lesson: Large Language Models\n\n## What is a Large Language Model?\n\nA **Large Language Model** (LLM) is a type of computer program that can understand and generate human language. Think of it as a smart assistant that can read, write, and respond to text in a way that feels natural. \n\n### Why does it matter?\n\nLarge Language Models are important because they help computers communicate with us more...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes the process of training large language models, including learning from large datasets and identifying patterns in language. It does not contain any factual inaccuracies or misleading simplifications that would prevent the reader from understanding the basic concept of how LLMs work.",
+              "evidence": "\"Large Language Models learn by reading a huge amount of text from books, articles, websites, and other sources. This process is called **training**. During training, the model looks for patterns in the language. It learns how sentences are formed, which words often go together, and how to respond to different questions.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is conversational and approachable, using analogies like \"smart assistant\" to make the concept relatable. It avoids technical jargon and explains concepts in a way that is accessible to beginners.",
+              "evidence": "\"A **Large Language Model** (LLM) is a type of computer program that can understand and generate human language. Think of it as a smart assistant that can read, write, and respond to text in a way that feels natural.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides concrete examples that walk through scenarios, such as learning a new language and writing an email, to illustrate how LLMs learn and generate responses. These examples help the reader visualize the process and understand the concepts being taught.",
+              "evidence": "\"Example: Imagine you are learning a new language. You read many books and listen to conversations. Over time, you start to understand how to form sentences and respond to questions. LLMs do something similar but at a much larger scale.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": false,
+              "reason": "1 technical term(s) appear with no explanation in the same or next sentence: training data. Explain each in plain words the first time it appears.",
+              "evidence": "Used without explanation: training data"
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what LLMs are, why they matter, and how they work. It explains the importance of LLMs in everyday applications and provides a step-by-step breakdown of their functioning, ensuring that all key points are addressed.",
+              "evidence": "\"Large Language Models are important because they help computers communicate with us more effectively. They can assist with writing, answering questions, translating languages, and even creating stories.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical sequence, starting with what LLMs are, moving to their importance, and then explaining how they work in a step-by-step manner. Each section builds on the previous one, creating a coherent flow of information.",
+              "evidence": "\"Let's break it down step by step. 1. Learning from Text... 2. Understanding Context... 3. Generating Responses...\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        },
+        {
+          "attempt_number": 2,
+          "word_count": 584,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 584,
+            "sentence_count": 42,
+            "avg_sentence_words": 13.9,
+            "long_sentence_count": 2,
+            "long_sentence_ratio": 0.048,
+            "longest_sentences": [
+              "If you ask, \"What is the capital of India?\" the LLM looks at the context and generates the response, \"The capital of India is New Delhi.\" It predicts this answer based on its training data.",
+              "If you say, \"I want to learn about apples,\" the model needs to know if you mean the fruit, the tech company (Apple), or something else."
+            ],
+            "academic_words": [],
+            "fk_grade": 7.5,
+            "reading_ease": 65.4
+          },
+          "passed_count": 6,
+          "failed_count": 0,
+          "overall_pass": true,
+          "evaluation_summary": "The lesson on Large Language Models is well-structured and beginner-friendly, using simple language and relatable examples to explain the concept. It accurately covers what LLMs are, why they are important, and how they function, ensuring a comprehensive understanding for a reader with no prior background in AI.",
+          "is_final_attempt": true,
+          "lesson_preview": "# Lesson: Large Language Models\n\n## What is a Large Language Model?\n\nA **Large Language Model** (LLM) is a type of computer program that can understand and generate human language. Think of it as a smart assistant that can read, write, and respond to text in a way that feels natural. \n\n### Why does it matter?\n\nLarge Language Models are important because they help computers communicate with us more...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes the process of training large language models, including learning from large datasets and identifying patterns in language. It does not contain any factual inaccuracies or misleading simplifications that would prevent the reader from understanding the basic concept of LLMs.",
+              "evidence": "\"Large Language Models learn by reading a huge amount of text from books, articles, websites, and other sources. This process is called **training**. During training, the model looks for patterns in the language. It learns how sentences are formed, which words often go together, and how to respond to different questions.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The lesson uses simple and relatable language, such as comparing LLMs to a 'smart assistant,' which makes the concept accessible to beginners. The tone is conversational and avoids technical jargon, making it friendly for someone with limited English vocabulary.",
+              "evidence": "\"Think of it as a smart assistant that can read, write, and respond to text in a way that feels natural.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides concrete examples that walk through scenarios, such as learning a new language and writing an email, to illustrate how LLMs learn and generate responses. These examples help the reader visualize the process and understand the concept better.",
+              "evidence": "\"Example: Imagine you are learning a new language. You read many books and listen to conversations. Over time, you start to understand how to form sentences and respond to questions. LLMs do something similar but at a much larger scale.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains terms like 'training,' 'context,' and 'probability' in simple language that is understandable to someone with no background in AI. The explanations are clear and avoid circular definitions, ensuring the reader can grasp the concepts without prior knowledge.",
+              "evidence": "\"This is done using a technique called **probability**, where the model chooses the most likely words to form a coherent response.\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what LLMs are, why they matter, and how they work. It explains the learning process, the importance of context, and the generation of responses, providing a comprehensive overview of the topic.",
+              "evidence": "\"Large Language Models are powerful tools that can understand and generate human language. They learn by reading lots of text, understand the context of conversations, and generate responses based on what they have learned.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical sequence, starting with what LLMs are, why they matter, and then explaining how they work in a step-by-step manner. Each section builds on the previous one, ensuring a coherent flow of information.",
+              "evidence": "\"Let's break it down step by step. 1. Learning from Text... 2. Understanding Context... 3. Generating Responses...\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [
+            "no_unexplained_jargon"
+          ],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 2,
+      "new_rules_learned": [],
+      "memory_rules_after": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "memory_rules_after_count": 1,
+      "failed_checkpoints_per_attempt": [
+        [
+          "no_unexplained_jargon"
+        ]
+      ]
+    },
+    {
+      "run_id": "037ffc70",
+      "timestamp": "2026-08-26T12:39:09.156565",
+      "topic": "Quantum Computing",
+      "total_attempts": 3,
+      "final_passed": true,
+      "final_result": "PASSED",
+      "duration_seconds": 53.34,
+      "memory_rules_active_count": 1,
+      "memory_rules_active": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 480,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 480,
+            "sentence_count": 43,
+            "avg_sentence_words": 11.2,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 8.2,
+            "reading_ease": 60.1
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (no_unexplained_jargon). The lesson on quantum computing is well-structured and beginner-friendly, using simple language and effective examples to explain complex concepts. It accurately covers the key points of what quantum computing is, why it matters, and how it works, ensuring a coherent teaching flow that aids understanding for a reader with no prior background in the subject.",
+          "is_final_attempt": false,
+          "lesson_preview": "# Beginner Lesson: Quantum Computing\n\n## What is Quantum Computing?\n\n**Quantum computing** is a new type of computing that uses the principles of **quantum mechanics**. Quantum mechanics is a branch of physics that studies very tiny particles, like atoms and photons. \n\n### Why Does Quantum Computing Matter?\n\n1. **Speed**: Quantum computers can solve problems much faster than traditional computers....",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes quantum computing as a new type of computing based on quantum mechanics. It correctly explains the concepts of qubits, superposition, and entanglement, which are fundamental to quantum computing. The examples provided, such as the spinning coin for superposition and entangled dice for entanglement, are simplified but accurate representations of these quantum phenomena.",
+              "evidence": "\"Quantum computing is a new type of computing that uses the principles of quantum mechanics.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is simple and conversational, making it accessible to beginners. It explains complex concepts using everyday analogies, such as comparing bits to light switches and qubits to spinning coins, which helps in understanding the material without overwhelming the reader with technical jargon.",
+              "evidence": "\"Quantum computing is a new type of computing that uses the principles of quantum mechanics. Quantum mechanics is a branch of physics that studies very tiny particles, like atoms and photons.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson effectively uses examples to illustrate key concepts. The spinning coin analogy for superposition and the entangled dice example for entanglement provide concrete scenarios that help the reader visualize how quantum computing works. These examples walk through the scenarios rather than merely stating them, aiding comprehension.",
+              "evidence": "\"Imagine a spinning coin. While it's spinning, it is not just heads or tails; it is in a state of both. When you stop it, you see either heads or tails. Qubits work similarly.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": false,
+              "reason": "1 technical term(s) appear with no explanation in the same or next sentence: artificial intelligence. Explain each in plain words the first time it appears.",
+              "evidence": "Used without explanation: artificial intelligence"
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers all key points: it explains what quantum computing is, why it matters (speed, solving complex problems, future technology), and how it works (using qubits, superposition, and entanglement). The explanations are substantive and provide a clear understanding of the process involved in quantum computing.",
+              "evidence": "\"Quantum computing is a powerful technology that can solve problems much faster than traditional computers. By using qubits, superposition, and entanglement, quantum computers can tackle complex challenges that regular computers cannot.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical progression, starting with the basics of quantum computing, then explaining why it matters, and finally detailing how it works with clear examples. Each section builds on the previous one, ensuring that the reader is not introduced to concepts before they are explained, resulting in a coherent teaching flow.",
+              "evidence": "\"Bits vs. Qubits\" section introduces bits first, then qubits, followed by examples and explanations of superposition and entanglement."
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        },
+        {
+          "attempt_number": 2,
+          "word_count": 504,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 504,
+            "sentence_count": 44,
+            "avg_sentence_words": 11.5,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 8.7,
+            "reading_ease": 57.0
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (no_unexplained_jargon). The lesson on quantum computing is well-structured and beginner-friendly, using simple language and concrete examples to explain complex concepts. It accurately covers the key points of what quantum computing is, why it matters, and how it works, ensuring a coherent teaching flow throughout.",
+          "is_final_attempt": false,
+          "lesson_preview": "# Beginner Lesson: Quantum Computing\n\n## What is Quantum Computing?\n\n**Quantum computing** is a new type of computing that uses the principles of **quantum mechanics**. Quantum mechanics is a branch of physics that studies very tiny particles, like atoms and photons. \n\n### Why Does Quantum Computing Matter?\n\n1. **Speed**: Quantum computers can solve problems much faster than traditional computers....",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes quantum computing as a new type of computing based on quantum mechanics, which is a branch of physics dealing with tiny particles. The explanation of qubits, superposition, and entanglement is also correct and grounded in actual quantum mechanics principles.",
+              "evidence": "\"Quantum computing is a new type of computing that uses the principles of quantum mechanics. Quantum mechanics is a branch of physics that studies very tiny particles, like atoms and photons.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is simple and conversational, suitable for a beginner. It explains complex concepts in a way that is accessible, using everyday analogies like a spinning coin for superposition and dice for entanglement.",
+              "evidence": "\"Quantum computing is a new type of computing that uses the principles of quantum mechanics. Quantum mechanics is a branch of physics that studies very tiny particles, like atoms and photons.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides concrete examples to illustrate abstract concepts, such as using a spinning coin to explain superposition and dice to explain entanglement. These examples help the reader visualize and understand how quantum computing works.",
+              "evidence": "\"Example: Imagine a spinning coin. While it's spinning, it is not just heads or tails; it is in a state of both. When you stop it, you see either heads or tails. Qubits work similarly.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": false,
+              "reason": "2 technical term(s) appear with no explanation in the same or next sentence: AI, artificial intelligence. Explain each in plain words the first time it appears.",
+              "evidence": "Used without explanation: AI, artificial intelligence"
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what quantum computing is, why it matters, and how it works. It explains the significance of quantum computing in solving complex problems and provides a basic understanding of how qubits, superposition, and entanglement function.",
+              "evidence": "\"Quantum computing is a powerful technology that can solve problems much faster than traditional computers. By using qubits, superposition, and entanglement, quantum computers can tackle complex challenges that regular computers cannot.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical progression, starting with an introduction to quantum computing, followed by explanations of key concepts, examples, and a conclusion. Each section builds on the previous one, creating a coherent flow of information.",
+              "evidence": "\"Quantum computing is a new type of computing that uses the principles of quantum mechanics... Quantum computers use qubits... Qubits can also be entangled... Real-Life Example of Quantum Computing... Conclusion.\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        },
+        {
+          "attempt_number": 3,
+          "word_count": 501,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 501,
+            "sentence_count": 44,
+            "avg_sentence_words": 11.4,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 8.6,
+            "reading_ease": 57.9
+          },
+          "passed_count": 6,
+          "failed_count": 0,
+          "overall_pass": true,
+          "evaluation_summary": "The lesson on quantum computing is well-structured and beginner-friendly. It accurately explains the concepts using simple language and effective examples. All key points are covered, and the teaching flow is coherent, making it suitable for a student with limited English proficiency and no prior background in the subject.",
+          "is_final_attempt": true,
+          "lesson_preview": "# Beginner Lesson: Quantum Computing\n\n## What is Quantum Computing?\n\n**Quantum computing** is a new type of computing that uses the principles of **quantum mechanics**. Quantum mechanics is a branch of physics that studies very tiny particles, like atoms and photons.\n\n### Why Does Quantum Computing Matter?\n\n1. **Speed**: Quantum computers can solve problems much faster than traditional computers. ...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes quantum computing as a new type of computing based on quantum mechanics, which is a branch of physics dealing with tiny particles. The explanation of qubits, superposition, and entanglement is also correct and grounded in actual quantum mechanics principles.",
+              "evidence": "\"Quantum computing is a new type of computing that uses the principles of quantum mechanics. Quantum mechanics is a branch of physics that studies very tiny particles, like atoms and photons.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is simple and conversational, suitable for a beginner. It explains complex concepts like quantum mechanics and qubits in a way that is accessible to someone with limited English vocabulary.",
+              "evidence": "\"Quantum computing is a new type of computing that uses the principles of quantum mechanics. Quantum mechanics is a branch of physics that studies very tiny particles, like atoms and photons.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides concrete examples, such as the spinning coin analogy for superposition and the entangled dice for entanglement. These examples help the reader visualize and understand the abstract concepts of quantum computing.",
+              "evidence": "\"Example: Imagine a spinning coin. While it's spinning, it is not just heads or tails; it is in a state of both. When you stop it, you see either heads or tails. Qubits work similarly.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains jargon like 'qubits' and 'superposition' in simple terms, using analogies and examples that make the concepts understandable to someone with no prior background in the subject.",
+              "evidence": "\"Qubits: Quantum computers use qubits (pronounced 'cue-bits'). A qubit can be a 0, a 1, or both at the same time. This ability is called superposition.\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what quantum computing is, why it matters, and how it works. It explains the significance of quantum computing in solving complex problems and provides a basic understanding of how qubits, superposition, and entanglement function.",
+              "evidence": "\"Quantum computing is a powerful technology that can solve problems much faster than traditional computers. By using qubits, superposition, and entanglement, quantum computers can tackle complex challenges that regular computers cannot.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical progression, starting with what quantum computing is, why it matters, and then explaining how it works with bits and qubits. The flow is coherent, with each section building on the previous one, making it easy for the reader to follow.",
+              "evidence": "\"Bits vs. Qubits: Traditional computers use bits as the smallest unit of data... Qubits: Quantum computers use qubits...\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [
+            "no_unexplained_jargon"
+          ],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 3,
+      "new_rules_learned": [],
+      "memory_rules_after": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "memory_rules_after_count": 1,
+      "failed_checkpoints_per_attempt": [
+        [
+          "no_unexplained_jargon"
+        ],
+        [
+          "no_unexplained_jargon"
+        ]
+      ]
+    },
+    {
+      "run_id": "4a095de6",
+      "timestamp": "2026-08-26T12:39:24.967586",
+      "topic": "How Solar Panels Work",
+      "total_attempts": 1,
+      "final_passed": true,
+      "final_result": "PASSED",
+      "duration_seconds": 14.5,
+      "memory_rules_active_count": 1,
+      "memory_rules_active": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 536,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 536,
+            "sentence_count": 44,
+            "avg_sentence_words": 12.2,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 7.4,
+            "reading_ease": 61.7
+          },
+          "passed_count": 6,
+          "failed_count": 0,
+          "overall_pass": true,
+          "evaluation_summary": "The lesson effectively explains how solar panels work using accurate information, beginner-friendly language, and relatable examples. It covers all key points, including what solar panels are, why they matter, and how they function, in a coherent and logical order. The lesson is well-suited for a beginner audience with no prior background in the subject.",
+          "is_final_attempt": true,
+          "lesson_preview": "# How Solar Panels Work\n\nIn this lesson, we will learn about solar panels. We will cover what they are, why they are important, and how they work. By the end, you will understand the basics of solar energy.\n\n## What Are Solar Panels?\n\nSolar panels are devices that convert sunlight into electricity. They are usually flat and made of many small parts called solar cells. \n\n### Example:\nImagine you ha...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes solar panels as devices that convert sunlight into electricity using solar cells. It also correctly explains the role of silicon in solar cells and the process of converting sunlight into electricity through the movement of electrons. The explanation of the inverter converting DC to AC is also accurate. There are no factual inaccuracies or misleading simplifications in the lesson.",
+              "evidence": "\"Solar panels are devices that convert sunlight into electricity. They are usually flat and made of many small parts called solar cells.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The lesson uses simple and relatable language, such as comparing solar panels to a flat board made of glass and using everyday scenarios like powering a home or charging a phone. The tone is conversational and approachable, making it suitable for a beginner audience.",
+              "evidence": "\"Imagine you have a big flat board made of many small pieces of glass. When sunlight hits the board, it creates electricity that can power your home or charge your phone.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides concrete examples to illustrate concepts, such as comparing electrons to marbles in a bowl and using a water pipe analogy for electricity flow. These examples help the reader visualize and understand the processes involved in how solar panels work.",
+              "evidence": "\"Think of electrons like marbles in a bowl. When you shake the bowl (like sunlight hitting the solar cells), the marbles move around. This movement creates electricity.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains technical terms like 'solar cells' and 'silicon' in simple language. It avoids jargon and provides clear explanations that are accessible to someone with no background in the subject.",
+              "evidence": "\"Solar cells are made of special materials, usually silicon. Silicon is a type of chemical that can turn sunlight into electricity.\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers all key points: it explains what solar panels are, why they matter by discussing clean energy and environmental benefits, and how they work through a step-by-step process. Each section is substantive and provides a clear understanding of the topic.",
+              "evidence": "\"In this lesson, we will learn about solar panels. We will cover what they are, why they are important, and how they work.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical flow, starting with what solar panels are, moving to their importance, and then explaining how they work in a step-by-step manner. Each section builds on the previous one, ensuring a coherent teaching flow.",
+              "evidence": "\"Now, let\u2019s see how solar panels work step by step.\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 1,
+      "new_rules_learned": [],
+      "memory_rules_after": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "memory_rules_after_count": 1,
+      "failed_checkpoints_per_attempt": []
+    },
+    {
+      "run_id": "ebcc24ba",
+      "timestamp": "2026-08-26T12:39:42.784158",
+      "topic": "Cloud Computing",
+      "total_attempts": 1,
+      "final_passed": true,
+      "final_result": "PASSED",
+      "duration_seconds": 16.62,
+      "memory_rules_active_count": 1,
+      "memory_rules_active": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 482,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 482,
+            "sentence_count": 40,
+            "avg_sentence_words": 12.1,
+            "long_sentence_count": 1,
+            "long_sentence_ratio": 0.025,
+            "longest_sentences": [
+              "Think of it like renting a room in a big building (the cloud) where you can keep your things, instead of keeping everything at home (your computer)."
+            ],
+            "academic_words": [],
+            "fk_grade": 7.9,
+            "reading_ease": 65.1
+          },
+          "passed_count": 6,
+          "failed_count": 0,
+          "overall_pass": true,
+          "evaluation_summary": "The lesson on cloud computing is well-structured and beginner-friendly, using simple language and relatable analogies. It accurately explains the concept, provides a practical example, and covers all key points, including what cloud computing is, why it matters, and how it works. The teaching flow is coherent, making it easy for a beginner to follow and understand.",
+          "is_final_attempt": true,
+          "lesson_preview": "# Beginner Lesson on Cloud Computing\n\n## What is Cloud Computing?\n\nCloud computing is a way of using the internet to store and access data and programs instead of using your computer's hard drive. Think of it like renting a room in a big building (the cloud) where you can keep your things, instead of keeping everything at home (your computer).\n\n### Why Does It Matter?\n\n1. **Accessibility**: You ca...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes cloud computing as using the internet to store and access data and programs, which is a correct and simplified explanation of the concept. The analogy of renting a room in a big building is a valid simplification that helps beginners understand the concept without distorting the reality of how cloud computing works.",
+              "evidence": "\"Cloud computing is a way of using the internet to store and access data and programs instead of using your computer's hard drive.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is conversational and uses simple analogies, such as comparing cloud computing to renting a room, which makes it accessible and easy to understand for beginners. The tone is friendly and explanatory, akin to a person explaining to a friend.",
+              "evidence": "\"Think of it like renting a room in a big building (the cloud) where you can keep your things, instead of keeping everything at home (your computer).\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides a concrete example of using Google Drive to store, access, and share a project report. This example walks through a scenario step-by-step, allowing the reader to see how cloud computing is applied in a real-world context.",
+              "evidence": "\"Example Scenario: Using Google Drive... You finish writing your project report on Google Docs, which is a cloud-based word processor. Instead of saving it on your computer, you click 'Save to Drive.'\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains terms like 'remote servers' and 'data centers' in simple language, ensuring that jargon is not left unexplained. The explanations are clear and understandable for someone with no background in the subject.",
+              "evidence": "\"Cloud computing works by using remote servers (powerful computers located in data centers) to store your data and run applications (programs).\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what cloud computing is, why it matters, and how it works. It explains the benefits of cloud computing, such as accessibility, cost-effectiveness, and automatic updates, and describes the process of storing and accessing data through cloud services.",
+              "evidence": "\"Cloud computing is a way of using the internet to store and access data... Why Does It Matter?... How Does Cloud Computing Work?...\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical progression, starting with an introduction to cloud computing, followed by its importance, functionality, a practical example, and concluding with its benefits. Each section builds on the previous one, creating a coherent teaching flow.",
+              "evidence": "\"What is Cloud Computing?... Why Does It Matter?... How Does Cloud Computing Work?... Example Scenario: Using Google Drive... Benefits of Cloud Computing... Conclusion\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 1,
+      "new_rules_learned": [],
+      "memory_rules_after": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "memory_rules_after_count": 1,
+      "failed_checkpoints_per_attempt": []
+    },
+    {
+      "run_id": "6711b830",
+      "timestamp": "2026-08-26T12:39:57.167319",
+      "topic": "The Water Cycle",
+      "total_attempts": 1,
+      "final_passed": true,
+      "final_result": "PASSED",
+      "duration_seconds": 13.18,
+      "memory_rules_active_count": 1,
+      "memory_rules_active": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 433,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 433,
+            "sentence_count": 50,
+            "avg_sentence_words": 8.7,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 6.5,
+            "reading_ease": 65.5
+          },
+          "passed_count": 6,
+          "failed_count": 0,
+          "overall_pass": true,
+          "evaluation_summary": "The lesson on the water cycle is well-structured and effectively communicates the topic to a beginner audience. It uses simple language, provides clear examples, and covers all key points, ensuring a coherent understanding of the water cycle's stages and significance.",
+          "is_final_attempt": true,
+          "lesson_preview": "# The Water Cycle\n\n## What is the Water Cycle?\n\nThe water cycle is the journey water takes as it moves around our planet. It goes from the ground to the sky and back again. It is important because it helps distribute water, which is essential for all living things.\n\n## Why Does the Water Cycle Matter?\n\nThe water cycle is crucial for many reasons:\n\n1. **Drinking Water**: It provides clean water for...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes the water cycle stages: evaporation, condensation, precipitation, and collection. These are the correct stages involved in the water cycle, and the descriptions provided for each stage are factually correct and grounded in reality.",
+              "evidence": "\"The water cycle has four main stages: evaporation, condensation, precipitation, and collection.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is simple and conversational, making it accessible to beginners. The tone is friendly and explains concepts in a way that resembles a person talking to a friend, rather than a formal textbook style.",
+              "evidence": "\"The water cycle is the journey water takes as it moves around our planet. It goes from the ground to the sky and back again.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides concrete examples for each stage of the water cycle, such as the puddle example for evaporation. These examples walk through scenarios, helping the reader visualize and understand the processes involved in the water cycle.",
+              "evidence": "\"Example: Imagine a puddle of water on a sunny day. The sun heats the water. Slowly, the water turns into vapor and rises into the sky. This is evaporation.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains terms like 'evaporation' and 'condensation' in simple language that is understandable to someone with no background knowledge. The explanations are clear and avoid using jargon without clarification.",
+              "evidence": "\"Evaporation is when water turns into vapor (a gas) and goes into the air.\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what the water cycle is, why it matters, and how it works. It explains the stages of the water cycle in detail, providing a clear sequence of events that describe the process. The importance of the water cycle is also addressed, covering all key points.",
+              "evidence": "\"The water cycle is the journey water takes as it moves around our planet. It goes from the ground to the sky and back again. It is important because it helps distribute water, which is essential for all living things.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical order, starting with an introduction to the water cycle, followed by its importance, and then a detailed explanation of each stage. The flow is coherent, with each section building on the previous one, culminating in a summary that ties everything together.",
+              "evidence": "\"Let's see how the water cycle works as a whole: 1. The sun heats water in rivers and lakes, causing evaporation...\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 1,
+      "new_rules_learned": [],
+      "memory_rules_after": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "memory_rules_after_count": 1,
+      "failed_checkpoints_per_attempt": []
+    },
+    {
+      "run_id": "03e61bfc",
+      "timestamp": "2026-08-26T12:40:13.083517",
+      "topic": "Cryptography",
+      "total_attempts": 1,
+      "final_passed": true,
+      "final_result": "PASSED",
+      "duration_seconds": 14.7,
+      "memory_rules_active_count": 1,
+      "memory_rules_active": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 439,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 439,
+            "sentence_count": 44,
+            "avg_sentence_words": 10.0,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 10.0,
+            "reading_ease": 47.5
+          },
+          "passed_count": 6,
+          "failed_count": 0,
+          "overall_pass": true,
+          "evaluation_summary": "The lesson effectively introduces cryptography to beginners, using clear language and relatable examples. It accurately explains key concepts and processes, ensuring the reader understands what cryptography is, why it matters, and how it works. The teaching flow is logical and coherent, making the lesson suitable for a beginner audience.",
+          "is_final_attempt": true,
+          "lesson_preview": "# Lesson: Introduction to Cryptography\n\n## What is Cryptography?\n\nCryptography (pronounced \"krip-tuh-gra-fee\") is the science of protecting information by transforming it into a secure format. This means that only the people who are supposed to see the information can read it. Imagine writing a secret message that only your friend can understand. That\u2019s what cryptography does!\n\n### Why Does Crypto...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes cryptography as the science of protecting information by transforming it into a secure format. It correctly explains the processes of encryption and decryption with examples that align with basic cryptographic principles. The simplifications made are honest and do not distort the fundamental concepts of cryptography.",
+              "evidence": "\"Cryptography (pronounced 'krip-tuh-gra-fee') is the science of protecting information by transforming it into a secure format.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The lesson uses everyday language and relatable analogies, such as comparing cryptography to writing a secret message for a friend. This approach makes the content accessible and engaging for beginners.",
+              "evidence": "\"Imagine writing a secret message that only your friend can understand. That\u2019s what cryptography does!\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides a concrete example of encryption and decryption using a simple letter substitution method. This example walks through the process step-by-step, allowing the reader to see how cryptography works in practice.",
+              "evidence": "\"Let\u2019s say you want to send your friend a secret message: 'HELLO'. Using a simple encryption method, you could change each letter to a different letter...\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": true,
+              "reason": "The lesson explains technical terms like 'encryption', 'decryption', 'plaintext', and 'ciphertext' in simple language. These explanations are clear and understandable for someone with no background in the subject.",
+              "evidence": "\"**Encryption** is the process of converting readable information (called plaintext) into a secret format (called ciphertext).\""
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what cryptography is, why it matters by explaining its importance in protecting personal information, and how it works through the processes of encryption and decryption. It also provides examples of real-world applications, ensuring all key points are addressed.",
+              "evidence": "\"Cryptography helps keep this information safe.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical flow, starting with an introduction to cryptography, followed by its importance, and then explaining how it works with examples. Each section builds on the previous one, creating a coherent teaching flow.",
+              "evidence": "\"Cryptography works by using two main processes: **encryption** and **decryption**.\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 1,
+      "new_rules_learned": [],
+      "memory_rules_after": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "memory_rules_after_count": 1,
+      "failed_checkpoints_per_attempt": []
+    },
+    {
+      "run_id": "0ce54b84",
+      "timestamp": "2026-08-26T13:35:23.242302",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "total_attempts": 3,
+      "final_passed": false,
+      "final_result": "BEST_EFFORT",
+      "duration_seconds": 55.38,
+      "memory_rules_active_count": 1,
+      "memory_rules_active": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 541,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 541,
+            "sentence_count": 48,
+            "avg_sentence_words": 11.3,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 8.2,
+            "reading_ease": 58.5
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (no_unexplained_jargon). The lesson effectively introduces RAG (Retrieval-Augmented Generation) using beginner-friendly language and clear examples. It accurately explains the concept, covers all key points, and maintains a coherent teaching flow, making it suitable for a student with no prior background in AI.",
+          "is_final_attempt": false,
+          "lesson_preview": "# Lesson: Understanding RAG (Retrieval-Augmented Generation)\n\n## What is RAG?\n\nRAG stands for Retrieval-Augmented Generation. It is a method used in artificial intelligence (AI) that helps computers answer questions better by using two main techniques: **retrieval** and **generation**.\n\n- **Retrieval** means finding information from a collection of data or documents. Think of it like searching for...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes RAG as a method in AI that combines retrieval and generation to improve question answering. The explanation of retrieval and generation processes is correct and aligns with how RAG functions in practice. The example provided further illustrates the process accurately.",
+              "evidence": "\"RAG stands for Retrieval-Augmented Generation. It is a method used in artificial intelligence (AI) that helps computers answer questions better by using two main techniques: retrieval and generation.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is simple and conversational, making it accessible to beginners. The explanations are clear and avoid technical jargon, using relatable analogies like searching for a book in a library to explain retrieval.",
+              "evidence": "\"RAG stands for Retrieval-Augmented Generation. It is a method used in artificial intelligence (AI) that helps computers answer questions better by using two main techniques: retrieval and generation.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson includes a concrete example that walks through a scenario of asking about the health benefits of apples. It details each step of the RAG process, from retrieval to generation, allowing the reader to see the concept in action rather than just being described.",
+              "evidence": "\"Let\u2019s look at a simple example to see RAG in action. Scenario: Asking About Fruits...\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": false,
+              "reason": "2 technical term(s) appear with no explanation in the same or next sentence: AI, artificial intelligence. Explain each in plain words the first time it appears.",
+              "evidence": "Used without explanation: AI, artificial intelligence"
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers what RAG is, why it matters, and how it works. It explains the importance of RAG in improving the accuracy of responses and provides a step-by-step breakdown of the process, ensuring all key points are addressed.",
+              "evidence": "\"RAG is important because it combines the strength of both methods. By retrieving relevant information and then generating answers, RAG can provide more accurate and helpful responses.\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical sequence, starting with an introduction to RAG, followed by its importance, and then a detailed explanation of how it works with examples. Each section builds on the previous one, ensuring a coherent flow of information.",
+              "evidence": "\"Let\u2019s break down how RAG works into simple steps. Step 1: Input Question... Step 2: Retrieval... Step 3: Generation... Step 4: Output the Answer\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        },
+        {
+          "attempt_number": 2,
+          "word_count": 564,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 564,
+            "sentence_count": 50,
+            "avg_sentence_words": 11.3,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 8.4,
+            "reading_ease": 57.1
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (no_unexplained_jargon). The lesson effectively introduces RAG (Retrieval-Augmented Generation) using beginner-friendly language and clear examples. It accurately explains the concept, its importance, and the process, ensuring that a reader with no prior background can understand and follow the content. The teaching flow is coherent, making the lesson a strong foundation for someone starting a career in AI.",
+          "is_final_attempt": false,
+          "lesson_preview": "# Lesson: Understanding RAG (Retrieval-Augmented Generation)\n\n## What is RAG?\n\nRAG stands for Retrieval-Augmented Generation. It is a method used in **artificial intelligence (AI)**. AI is a type of technology that allows computers to perform tasks that usually require human intelligence, like understanding language or answering questions. RAG helps computers answer questions better by using two m...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes RAG as a method that combines retrieval and generation to improve question answering. It correctly outlines the process of retrieving information and generating responses based on that information. The example provided further illustrates this process accurately, showing how RAG retrieves relevant information and generates a coherent answer.",
+              "evidence": "\"RAG helps computers answer questions better by using two main techniques: retrieval and generation.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is simple and conversational, making it accessible to beginners. It explains complex concepts in everyday terms, such as comparing retrieval to searching for a book in a library and generation to writing an essay. This approach makes the content relatable and easy to understand for someone with limited technical background.",
+              "evidence": "\"RAG stands for Retrieval-Augmented Generation. It is a method used in artificial intelligence (AI). AI is a type of technology that allows computers to perform tasks that usually require human intelligence, like understanding language or answering questions.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson includes a detailed example scenario that walks through the RAG process step-by-step. It shows how a question about apples is processed through retrieval and generation phases, leading to a final output. This concrete example helps the reader visualize how RAG works in practice, enhancing understanding.",
+              "evidence": "\"Scenario: Asking About Fruits... You Ask: 'What are the health benefits of apples?'... Retrieval Phase... Generation Phase... Final Output...\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": false,
+              "reason": "2 technical term(s) appear with no explanation in the same or next sentence: AI, artificial intelligence. Explain each in plain words the first time it appears.",
+              "evidence": "Used without explanation: AI, artificial intelligence"
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers all key points: it explains what RAG is, why it matters by highlighting its importance in improving AI responses, and how it works through a detailed step-by-step process. Each section is well-developed, providing a comprehensive understanding of RAG.",
+              "evidence": "\"RAG is important because it combines the strength of both methods... How Does RAG Work?... Step 1: Input Question... Step 2: Retrieval... Step 3: Generation... Step 4: Output the Answer\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical flow, starting with an introduction to RAG, followed by its importance, a detailed explanation of how it works, and a practical example. The conclusion ties everything together, reinforcing the key points. This structure ensures that the reader can follow the lesson without confusion.",
+              "evidence": "\"Let\u2019s break down how RAG works into simple steps... Example Scenario... Conclusion\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        },
+        {
+          "attempt_number": 3,
+          "word_count": 565,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 565,
+            "sentence_count": 51,
+            "avg_sentence_words": 11.1,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 8.3,
+            "reading_ease": 57.2
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (no_unexplained_jargon). The lesson on RAG (Retrieval-Augmented Generation) is well-structured and beginner-friendly. It accurately explains the concept using simple language and provides a clear example to illustrate the process. All key points are covered, and the teaching flow is coherent, making it suitable for a student with no prior background in AI.",
+          "is_final_attempt": true,
+          "lesson_preview": "# Lesson: Understanding RAG (Retrieval-Augmented Generation)\n\n## What is RAG?\n\nRAG stands for Retrieval-Augmented Generation. It is a method used in **artificial intelligence (AI)**. AI is a type of technology that allows computers to perform tasks that usually require human intelligence. For example, understanding language or answering questions. RAG helps computers answer questions better by usi...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson accurately describes RAG as a method that combines retrieval and generation to improve AI's ability to answer questions. It correctly outlines the process of retrieving information and generating responses, which aligns with how RAG functions in practice.",
+              "evidence": "\"RAG helps computers answer questions better by using two main techniques: retrieval and generation.\""
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The language used in the lesson is simple and conversational, making it accessible to beginners. It explains concepts in a straightforward manner, akin to a friend explaining something rather than a textbook entry.",
+              "evidence": "\"RAG stands for Retrieval-Augmented Generation. It is a method used in artificial intelligence (AI). AI is a type of technology that allows computers to perform tasks that usually require human intelligence.\""
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson provides a concrete example of how RAG works by walking through a scenario involving a question about apples. This example illustrates the retrieval and generation process, helping the reader visualize the concept in action.",
+              "evidence": "\"Scenario: Asking About Fruits... You Ask: 'What are the health benefits of apples?'... The RAG system searches its database... It selects key points... The system takes those points and creates a new response.\""
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": false,
+              "reason": "2 technical term(s) appear with no explanation in the same or next sentence: AI, artificial intelligence. Explain each in plain words the first time it appears.",
+              "evidence": "Used without explanation: AI, artificial intelligence"
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson covers all key points: it defines what RAG is, explains why it matters by highlighting its benefits, and describes how it works through a step-by-step process. Each section provides substantive information rather than just restating definitions.",
+              "evidence": "\"What is RAG?... Why Does RAG Matter?... How Does RAG Work?...\""
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "The lesson follows a logical sequence, starting with an introduction to RAG, followed by its importance, and then a detailed explanation of its working process. Each section builds on the previous one, ensuring a smooth flow of information.",
+              "evidence": "\"Let\u2019s break down how RAG works into simple steps... Step 1: Input Question... Step 2: Retrieval... Step 3: Generation... Step 4: Output the Answer\""
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 1,
+      "new_rules_learned": [],
+      "memory_rules_after": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "memory_rules_after_count": 1,
+      "failed_checkpoints_per_attempt": [
+        [
+          "no_unexplained_jargon"
+        ],
+        [
+          "no_unexplained_jargon"
+        ]
+      ]
+    }
+  ]
+}

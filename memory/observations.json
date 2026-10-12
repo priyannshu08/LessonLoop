@@ -1,0 +1,1378 @@
+{
+  "observations": [
+    {
+      "id": "obs_0001",
+      "timestamp": "2026-08-26T12:11:03.482448",
+      "run_id": "2fe28c1d",
+      "topic": "Compound Interest",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0002",
+      "timestamp": "2026-08-26T12:11:03.482464",
+      "run_id": "2fe28c1d",
+      "topic": "Compound Interest",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0003",
+      "timestamp": "2026-08-26T12:11:03.482467",
+      "run_id": "2fe28c1d",
+      "topic": "Compound Interest",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0004",
+      "timestamp": "2026-08-26T12:11:03.482468",
+      "run_id": "2fe28c1d",
+      "topic": "Compound Interest",
+      "checkpoint": "no_unexplained_jargon",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0005",
+      "timestamp": "2026-08-26T12:11:03.482470",
+      "run_id": "2fe28c1d",
+      "topic": "Compound Interest",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0006",
+      "timestamp": "2026-08-26T12:11:03.482472",
+      "run_id": "2fe28c1d",
+      "topic": "Compound Interest",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0007",
+      "timestamp": "2026-08-26T12:11:23.283167",
+      "run_id": "3a573551",
+      "topic": "Photosynthesis",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0008",
+      "timestamp": "2026-08-26T12:11:23.283180",
+      "run_id": "3a573551",
+      "topic": "Photosynthesis",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0009",
+      "timestamp": "2026-08-26T12:11:23.283184",
+      "run_id": "3a573551",
+      "topic": "Photosynthesis",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0010",
+      "timestamp": "2026-08-26T12:11:23.283186",
+      "run_id": "3a573551",
+      "topic": "Photosynthesis",
+      "checkpoint": "no_unexplained_jargon",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0011",
+      "timestamp": "2026-08-26T12:11:23.283188",
+      "run_id": "3a573551",
+      "topic": "Photosynthesis",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0012",
+      "timestamp": "2026-08-26T12:11:23.283191",
+      "run_id": "3a573551",
+      "topic": "Photosynthesis",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0013",
+      "timestamp": "2026-08-26T12:12:07.732371",
+      "run_id": "fbf77ebb",
+      "topic": "How the Internet Works",
+      "attempt_number": 1,
+      "checkpoint": "coherent_teaching_flow",
+      "signature": "coherent_teaching_flow::general",
+      "reason": "The lesson explains how it works before explaining what it is, so the reader meets the mechanism before the concept. Introduce what it is first.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0014",
+      "timestamp": "2026-08-26T12:12:07.732405",
+      "run_id": "fbf77ebb",
+      "topic": "How the Internet Works",
+      "attempt_number": 2,
+      "checkpoint": "coherent_teaching_flow",
+      "signature": "coherent_teaching_flow::general",
+      "reason": "The lesson explains how it works before explaining what it is, so the reader meets the mechanism before the concept. Introduce what it is first.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0015",
+      "timestamp": "2026-08-26T12:12:07.732410",
+      "run_id": "fbf77ebb",
+      "topic": "How the Internet Works",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0016",
+      "timestamp": "2026-08-26T12:12:07.732414",
+      "run_id": "fbf77ebb",
+      "topic": "How the Internet Works",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0017",
+      "timestamp": "2026-08-26T12:12:07.732416",
+      "run_id": "fbf77ebb",
+      "topic": "How the Internet Works",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0018",
+      "timestamp": "2026-08-26T12:12:07.732419",
+      "run_id": "fbf77ebb",
+      "topic": "How the Internet Works",
+      "checkpoint": "no_unexplained_jargon",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0019",
+      "timestamp": "2026-08-26T12:12:07.732422",
+      "run_id": "fbf77ebb",
+      "topic": "How the Internet Works",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0020",
+      "timestamp": "2026-08-26T12:13:27.854724",
+      "run_id": "9d7363b3",
+      "topic": "How the Internet Works",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0021",
+      "timestamp": "2026-08-26T12:13:27.854742",
+      "run_id": "9d7363b3",
+      "topic": "How the Internet Works",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0022",
+      "timestamp": "2026-08-26T12:13:27.854746",
+      "run_id": "9d7363b3",
+      "topic": "How the Internet Works",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0023",
+      "timestamp": "2026-08-26T12:13:27.854748",
+      "run_id": "9d7363b3",
+      "topic": "How the Internet Works",
+      "checkpoint": "no_unexplained_jargon",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0024",
+      "timestamp": "2026-08-26T12:13:27.854750",
+      "run_id": "9d7363b3",
+      "topic": "How the Internet Works",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0025",
+      "timestamp": "2026-08-26T12:13:27.854752",
+      "run_id": "9d7363b3",
+      "topic": "How the Internet Works",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0026",
+      "timestamp": "2026-08-26T12:14:39.245004",
+      "run_id": "0e4db9b7",
+      "topic": "Vector Databases",
+      "attempt_number": 1,
+      "checkpoint": "no_unexplained_jargon",
+      "signature": "no_unexplained_jargon::undefined_terms",
+      "reason": "1 technical term(s) appear with no explanation in the same or next sentence: vector database. Explain each in plain words the first time it appears.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0027",
+      "timestamp": "2026-08-26T12:14:39.245035",
+      "run_id": "0e4db9b7",
+      "topic": "Vector Databases",
+      "attempt_number": 2,
+      "checkpoint": "no_unexplained_jargon",
+      "signature": "no_unexplained_jargon::undefined_terms",
+      "reason": "1 technical term(s) appear with no explanation in the same or next sentence: vector database. Explain each in plain words the first time it appears.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0028",
+      "timestamp": "2026-08-26T12:14:39.245040",
+      "run_id": "0e4db9b7",
+      "topic": "Vector Databases",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0029",
+      "timestamp": "2026-08-26T12:14:39.245043",
+      "run_id": "0e4db9b7",
+      "topic": "Vector Databases",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0030",
+      "timestamp": "2026-08-26T12:14:39.245046",
+      "run_id": "0e4db9b7",
+      "topic": "Vector Databases",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0031",
+      "timestamp": "2026-08-26T12:14:39.245048",
+      "run_id": "0e4db9b7",
+      "topic": "Vector Databases",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0032",
+      "timestamp": "2026-08-26T12:14:39.245049",
+      "run_id": "0e4db9b7",
+      "topic": "Vector Databases",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0033",
+      "timestamp": "2026-08-26T12:15:19.111179",
+      "run_id": "4a8336b8",
+      "topic": "Neural Networks",
+      "attempt_number": 1,
+      "checkpoint": "no_unexplained_jargon",
+      "signature": "no_unexplained_jargon::undefined_terms",
+      "reason": "3 technical term(s) appear with no explanation in the same or next sentence: AI, artificial intelligence, neural network. Explain each in plain words the first time it appears.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0034",
+      "timestamp": "2026-08-26T12:15:19.111194",
+      "run_id": "4a8336b8",
+      "topic": "Neural Networks",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0035",
+      "timestamp": "2026-08-26T12:15:19.111199",
+      "run_id": "4a8336b8",
+      "topic": "Neural Networks",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0036",
+      "timestamp": "2026-08-26T12:15:19.111202",
+      "run_id": "4a8336b8",
+      "topic": "Neural Networks",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0037",
+      "timestamp": "2026-08-26T12:15:19.111204",
+      "run_id": "4a8336b8",
+      "topic": "Neural Networks",
+      "checkpoint": "no_unexplained_jargon",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0038",
+      "timestamp": "2026-08-26T12:15:19.111207",
+      "run_id": "4a8336b8",
+      "topic": "Neural Networks",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0039",
+      "timestamp": "2026-08-26T12:15:19.111209",
+      "run_id": "4a8336b8",
+      "topic": "Neural Networks",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0040",
+      "timestamp": "2026-08-26T12:15:53.928384",
+      "run_id": "8471e1bb",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "attempt_number": 1,
+      "checkpoint": "no_unexplained_jargon",
+      "signature": "no_unexplained_jargon::undefined_terms",
+      "reason": "1 technical term(s) appear with no explanation in the same or next sentence: AI. Explain each in plain words the first time it appears.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0041",
+      "timestamp": "2026-08-26T12:15:53.928400",
+      "run_id": "8471e1bb",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0042",
+      "timestamp": "2026-08-26T12:15:53.928405",
+      "run_id": "8471e1bb",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0043",
+      "timestamp": "2026-08-26T12:15:53.928408",
+      "run_id": "8471e1bb",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0044",
+      "timestamp": "2026-08-26T12:15:53.928410",
+      "run_id": "8471e1bb",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "checkpoint": "no_unexplained_jargon",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0045",
+      "timestamp": "2026-08-26T12:15:53.928412",
+      "run_id": "8471e1bb",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0046",
+      "timestamp": "2026-08-26T12:15:53.928414",
+      "run_id": "8471e1bb",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0047",
+      "timestamp": "2026-08-26T12:32:07.432037",
+      "run_id": "afd6ebae",
+      "topic": "Vector Databases",
+      "attempt_number": 1,
+      "checkpoint": "no_unexplained_jargon",
+      "signature": "no_unexplained_jargon::undefined_terms",
+      "reason": "2 technical term(s) appear with no explanation in the same or next sentence: AI, machine learning. Explain each in plain words the first time it appears.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0048",
+      "timestamp": "2026-08-26T12:32:07.432054",
+      "run_id": "afd6ebae",
+      "topic": "Vector Databases",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0049",
+      "timestamp": "2026-08-26T12:32:07.432058",
+      "run_id": "afd6ebae",
+      "topic": "Vector Databases",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0050",
+      "timestamp": "2026-08-26T12:32:07.432060",
+      "run_id": "afd6ebae",
+      "topic": "Vector Databases",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0051",
+      "timestamp": "2026-08-26T12:32:07.432062",
+      "run_id": "afd6ebae",
+      "topic": "Vector Databases",
+      "checkpoint": "no_unexplained_jargon",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0052",
+      "timestamp": "2026-08-26T12:32:07.432064",
+      "run_id": "afd6ebae",
+      "topic": "Vector Databases",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0053",
+      "timestamp": "2026-08-26T12:32:07.432066",
+      "run_id": "afd6ebae",
+      "topic": "Vector Databases",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0054",
+      "timestamp": "2026-08-26T12:33:06.603924",
+      "run_id": "0a9ea40d",
+      "topic": "Machine Learning",
+      "attempt_number": 1,
+      "checkpoint": "no_unexplained_jargon",
+      "signature": "no_unexplained_jargon::undefined_terms",
+      "reason": "1 technical term(s) appear with no explanation in the same or next sentence: model. Explain each in plain words the first time it appears.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0055",
+      "timestamp": "2026-08-26T12:33:06.603958",
+      "run_id": "0a9ea40d",
+      "topic": "Machine Learning",
+      "attempt_number": 2,
+      "checkpoint": "no_unexplained_jargon",
+      "signature": "no_unexplained_jargon::undefined_terms",
+      "reason": "1 technical term(s) appear with no explanation in the same or next sentence: model. Explain each in plain words the first time it appears.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0056",
+      "timestamp": "2026-08-26T12:33:06.603964",
+      "run_id": "0a9ea40d",
+      "topic": "Machine Learning",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0057",
+      "timestamp": "2026-08-26T12:33:06.603967",
+      "run_id": "0a9ea40d",
+      "topic": "Machine Learning",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0058",
+      "timestamp": "2026-08-26T12:33:06.603970",
+      "run_id": "0a9ea40d",
+      "topic": "Machine Learning",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0059",
+      "timestamp": "2026-08-26T12:33:06.603973",
+      "run_id": "0a9ea40d",
+      "topic": "Machine Learning",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0060",
+      "timestamp": "2026-08-26T12:33:06.603975",
+      "run_id": "0a9ea40d",
+      "topic": "Machine Learning",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0061",
+      "timestamp": "2026-08-26T12:33:22.653979",
+      "run_id": "999be4e4",
+      "topic": "How Vaccines Work",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0062",
+      "timestamp": "2026-08-26T12:33:22.653994",
+      "run_id": "999be4e4",
+      "topic": "How Vaccines Work",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0063",
+      "timestamp": "2026-08-26T12:33:22.653997",
+      "run_id": "999be4e4",
+      "topic": "How Vaccines Work",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0064",
+      "timestamp": "2026-08-26T12:33:22.654000",
+      "run_id": "999be4e4",
+      "topic": "How Vaccines Work",
+      "checkpoint": "no_unexplained_jargon",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0065",
+      "timestamp": "2026-08-26T12:33:22.654002",
+      "run_id": "999be4e4",
+      "topic": "How Vaccines Work",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0066",
+      "timestamp": "2026-08-26T12:33:22.654004",
+      "run_id": "999be4e4",
+      "topic": "How Vaccines Work",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0067",
+      "timestamp": "2026-08-26T12:33:49.928029",
+      "run_id": "eb1d5a45",
+      "topic": "Compound Interest",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0068",
+      "timestamp": "2026-08-26T12:33:49.928042",
+      "run_id": "eb1d5a45",
+      "topic": "Compound Interest",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0069",
+      "timestamp": "2026-08-26T12:33:49.928046",
+      "run_id": "eb1d5a45",
+      "topic": "Compound Interest",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0070",
+      "timestamp": "2026-08-26T12:33:49.928048",
+      "run_id": "eb1d5a45",
+      "topic": "Compound Interest",
+      "checkpoint": "no_unexplained_jargon",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0071",
+      "timestamp": "2026-08-26T12:33:49.928050",
+      "run_id": "eb1d5a45",
+      "topic": "Compound Interest",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0072",
+      "timestamp": "2026-08-26T12:33:49.928052",
+      "run_id": "eb1d5a45",
+      "topic": "Compound Interest",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0073",
+      "timestamp": "2026-08-26T12:36:37.185166",
+      "run_id": "8f952cf6",
+      "topic": "Machine Learning",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0074",
+      "timestamp": "2026-08-26T12:36:37.185175",
+      "run_id": "8f952cf6",
+      "topic": "Machine Learning",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0075",
+      "timestamp": "2026-08-26T12:36:37.185178",
+      "run_id": "8f952cf6",
+      "topic": "Machine Learning",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0076",
+      "timestamp": "2026-08-26T12:36:37.185180",
+      "run_id": "8f952cf6",
+      "topic": "Machine Learning",
+      "checkpoint": "no_unexplained_jargon",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0077",
+      "timestamp": "2026-08-26T12:36:37.185181",
+      "run_id": "8f952cf6",
+      "topic": "Machine Learning",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0078",
+      "timestamp": "2026-08-26T12:36:37.185183",
+      "run_id": "8f952cf6",
+      "topic": "Machine Learning",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0079",
+      "timestamp": "2026-08-26T12:37:03.488403",
+      "run_id": "7e7c81e6",
+      "topic": "Blockchain",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0080",
+      "timestamp": "2026-08-26T12:37:03.488417",
+      "run_id": "7e7c81e6",
+      "topic": "Blockchain",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0081",
+      "timestamp": "2026-08-26T12:37:03.488420",
+      "run_id": "7e7c81e6",
+      "topic": "Blockchain",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0082",
+      "timestamp": "2026-08-26T12:37:03.488422",
+      "run_id": "7e7c81e6",
+      "topic": "Blockchain",
+      "checkpoint": "no_unexplained_jargon",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0083",
+      "timestamp": "2026-08-26T12:37:03.488423",
+      "run_id": "7e7c81e6",
+      "topic": "Blockchain",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0084",
+      "timestamp": "2026-08-26T12:37:03.488425",
+      "run_id": "7e7c81e6",
+      "topic": "Blockchain",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0085",
+      "timestamp": "2026-08-26T12:37:20.765075",
+      "run_id": "38bd4478",
+      "topic": "How GPS Works",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0086",
+      "timestamp": "2026-08-26T12:37:20.765085",
+      "run_id": "38bd4478",
+      "topic": "How GPS Works",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0087",
+      "timestamp": "2026-08-26T12:37:20.765089",
+      "run_id": "38bd4478",
+      "topic": "How GPS Works",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0088",
+      "timestamp": "2026-08-26T12:37:20.765091",
+      "run_id": "38bd4478",
+      "topic": "How GPS Works",
+      "checkpoint": "no_unexplained_jargon",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0089",
+      "timestamp": "2026-08-26T12:37:20.765093",
+      "run_id": "38bd4478",
+      "topic": "How GPS Works",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0090",
+      "timestamp": "2026-08-26T12:37:20.765095",
+      "run_id": "38bd4478",
+      "topic": "How GPS Works",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0091",
+      "timestamp": "2026-08-26T12:38:04.064376",
+      "run_id": "36e2dc65",
+      "topic": "Large Language Models",
+      "attempt_number": 1,
+      "checkpoint": "no_unexplained_jargon",
+      "signature": "no_unexplained_jargon::undefined_terms",
+      "reason": "1 technical term(s) appear with no explanation in the same or next sentence: training data. Explain each in plain words the first time it appears.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0092",
+      "timestamp": "2026-08-26T12:38:04.064392",
+      "run_id": "36e2dc65",
+      "topic": "Large Language Models",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0093",
+      "timestamp": "2026-08-26T12:38:04.064397",
+      "run_id": "36e2dc65",
+      "topic": "Large Language Models",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0094",
+      "timestamp": "2026-08-26T12:38:04.064401",
+      "run_id": "36e2dc65",
+      "topic": "Large Language Models",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0095",
+      "timestamp": "2026-08-26T12:38:04.064404",
+      "run_id": "36e2dc65",
+      "topic": "Large Language Models",
+      "checkpoint": "no_unexplained_jargon",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0096",
+      "timestamp": "2026-08-26T12:38:04.064406",
+      "run_id": "36e2dc65",
+      "topic": "Large Language Models",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0097",
+      "timestamp": "2026-08-26T12:38:04.064409",
+      "run_id": "36e2dc65",
+      "topic": "Large Language Models",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0098",
+      "timestamp": "2026-08-26T12:39:09.153900",
+      "run_id": "037ffc70",
+      "topic": "Quantum Computing",
+      "attempt_number": 1,
+      "checkpoint": "no_unexplained_jargon",
+      "signature": "no_unexplained_jargon::undefined_terms",
+      "reason": "1 technical term(s) appear with no explanation in the same or next sentence: artificial intelligence. Explain each in plain words the first time it appears.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0099",
+      "timestamp": "2026-08-26T12:39:09.153911",
+      "run_id": "037ffc70",
+      "topic": "Quantum Computing",
+      "attempt_number": 2,
+      "checkpoint": "no_unexplained_jargon",
+      "signature": "no_unexplained_jargon::undefined_terms",
+      "reason": "2 technical term(s) appear with no explanation in the same or next sentence: AI, artificial intelligence. Explain each in plain words the first time it appears.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0100",
+      "timestamp": "2026-08-26T12:39:09.153913",
+      "run_id": "037ffc70",
+      "topic": "Quantum Computing",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0101",
+      "timestamp": "2026-08-26T12:39:09.153914",
+      "run_id": "037ffc70",
+      "topic": "Quantum Computing",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0102",
+      "timestamp": "2026-08-26T12:39:09.153916",
+      "run_id": "037ffc70",
+      "topic": "Quantum Computing",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0103",
+      "timestamp": "2026-08-26T12:39:09.153917",
+      "run_id": "037ffc70",
+      "topic": "Quantum Computing",
+      "checkpoint": "no_unexplained_jargon",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0104",
+      "timestamp": "2026-08-26T12:39:09.153918",
+      "run_id": "037ffc70",
+      "topic": "Quantum Computing",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0105",
+      "timestamp": "2026-08-26T12:39:09.153919",
+      "run_id": "037ffc70",
+      "topic": "Quantum Computing",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0106",
+      "timestamp": "2026-08-26T12:39:24.963620",
+      "run_id": "4a095de6",
+      "topic": "How Solar Panels Work",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0107",
+      "timestamp": "2026-08-26T12:39:24.963631",
+      "run_id": "4a095de6",
+      "topic": "How Solar Panels Work",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0108",
+      "timestamp": "2026-08-26T12:39:24.963634",
+      "run_id": "4a095de6",
+      "topic": "How Solar Panels Work",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0109",
+      "timestamp": "2026-08-26T12:39:24.963636",
+      "run_id": "4a095de6",
+      "topic": "How Solar Panels Work",
+      "checkpoint": "no_unexplained_jargon",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0110",
+      "timestamp": "2026-08-26T12:39:24.963640",
+      "run_id": "4a095de6",
+      "topic": "How Solar Panels Work",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0111",
+      "timestamp": "2026-08-26T12:39:24.963641",
+      "run_id": "4a095de6",
+      "topic": "How Solar Panels Work",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0112",
+      "timestamp": "2026-08-26T12:39:42.779960",
+      "run_id": "ebcc24ba",
+      "topic": "Cloud Computing",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0113",
+      "timestamp": "2026-08-26T12:39:42.780005",
+      "run_id": "ebcc24ba",
+      "topic": "Cloud Computing",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0114",
+      "timestamp": "2026-08-26T12:39:42.780009",
+      "run_id": "ebcc24ba",
+      "topic": "Cloud Computing",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0115",
+      "timestamp": "2026-08-26T12:39:42.780012",
+      "run_id": "ebcc24ba",
+      "topic": "Cloud Computing",
+      "checkpoint": "no_unexplained_jargon",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0116",
+      "timestamp": "2026-08-26T12:39:42.780014",
+      "run_id": "ebcc24ba",
+      "topic": "Cloud Computing",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0117",
+      "timestamp": "2026-08-26T12:39:42.780016",
+      "run_id": "ebcc24ba",
+      "topic": "Cloud Computing",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0118",
+      "timestamp": "2026-08-26T12:39:57.163309",
+      "run_id": "6711b830",
+      "topic": "The Water Cycle",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0119",
+      "timestamp": "2026-08-26T12:39:57.163321",
+      "run_id": "6711b830",
+      "topic": "The Water Cycle",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0120",
+      "timestamp": "2026-08-26T12:39:57.163324",
+      "run_id": "6711b830",
+      "topic": "The Water Cycle",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0121",
+      "timestamp": "2026-08-26T12:39:57.163326",
+      "run_id": "6711b830",
+      "topic": "The Water Cycle",
+      "checkpoint": "no_unexplained_jargon",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0122",
+      "timestamp": "2026-08-26T12:39:57.163328",
+      "run_id": "6711b830",
+      "topic": "The Water Cycle",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0123",
+      "timestamp": "2026-08-26T12:39:57.163330",
+      "run_id": "6711b830",
+      "topic": "The Water Cycle",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0124",
+      "timestamp": "2026-08-26T12:40:13.078565",
+      "run_id": "03e61bfc",
+      "topic": "Cryptography",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0125",
+      "timestamp": "2026-08-26T12:40:13.078583",
+      "run_id": "03e61bfc",
+      "topic": "Cryptography",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0126",
+      "timestamp": "2026-08-26T12:40:13.078586",
+      "run_id": "03e61bfc",
+      "topic": "Cryptography",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0127",
+      "timestamp": "2026-08-26T12:40:13.078588",
+      "run_id": "03e61bfc",
+      "topic": "Cryptography",
+      "checkpoint": "no_unexplained_jargon",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0128",
+      "timestamp": "2026-08-26T12:40:13.078590",
+      "run_id": "03e61bfc",
+      "topic": "Cryptography",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0129",
+      "timestamp": "2026-08-26T12:40:13.078592",
+      "run_id": "03e61bfc",
+      "topic": "Cryptography",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0130",
+      "timestamp": "2026-08-26T13:35:23.238399",
+      "run_id": "0ce54b84",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "attempt_number": 1,
+      "checkpoint": "no_unexplained_jargon",
+      "signature": "no_unexplained_jargon::undefined_terms",
+      "reason": "2 technical term(s) appear with no explanation in the same or next sentence: AI, artificial intelligence. Explain each in plain words the first time it appears.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0131",
+      "timestamp": "2026-08-26T13:35:23.238412",
+      "run_id": "0ce54b84",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "attempt_number": 2,
+      "checkpoint": "no_unexplained_jargon",
+      "signature": "no_unexplained_jargon::undefined_terms",
+      "reason": "2 technical term(s) appear with no explanation in the same or next sentence: AI, artificial intelligence. Explain each in plain words the first time it appears.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0132",
+      "timestamp": "2026-08-26T13:35:23.238414",
+      "run_id": "0ce54b84",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0133",
+      "timestamp": "2026-08-26T13:35:23.238416",
+      "run_id": "0ce54b84",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0134",
+      "timestamp": "2026-08-26T13:35:23.238417",
+      "run_id": "0ce54b84",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0135",
+      "timestamp": "2026-08-26T13:35:23.238417",
+      "run_id": "0ce54b84",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0136",
+      "timestamp": "2026-08-26T13:35:23.238418",
+      "run_id": "0ce54b84",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    }
+  ]
+}
