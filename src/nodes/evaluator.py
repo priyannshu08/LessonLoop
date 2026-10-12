@@ -121,7 +121,9 @@ def evaluate_lesson(state: dict) -> dict:
     )
 
     llm = ChatOpenAI(model=EVALUATOR_MODEL, temperature=EVALUATOR_TEMPERATURE)
-    structured = llm.with_structured_output(EvaluationResult)
+    structured = llm.with_structured_output(
+        EvaluationResult, method="function_calling"
+    )
 
     try:
         result = structured.invoke([

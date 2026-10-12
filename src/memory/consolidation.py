@@ -162,7 +162,7 @@ same property are ALWAYS a contradiction, even if both sound reasonable.
 def _llm(schema):
     return ChatOpenAI(
         model=EVALUATOR_MODEL, temperature=EVALUATOR_TEMPERATURE
-    ).with_structured_output(schema)
+    ).with_structured_output(schema, method="function_calling")
 
 
 def find_promotable_patterns(memory: MemoryStore) -> list[tuple[str, list[str]]]:
