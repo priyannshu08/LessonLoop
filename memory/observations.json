@@ -1373,6 +1373,133 @@
       "signature": null,
       "reason": "",
       "outcome": "pass"
+    },
+    {
+      "id": "obs_0137",
+      "timestamp": "2026-10-12T23:21:04.406078",
+      "run_id": "6a2fb6d1",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "attempt_number": 1,
+      "checkpoint": "no_unexplained_jargon",
+      "signature": "no_unexplained_jargon::undefined_terms",
+      "reason": "7 technical term(s) appear with no explanation in the same or next sentence: artificial intelligence, machine learning, model, embedding, vector, API. Explain each in plain words the first time it appears.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0138",
+      "timestamp": "2026-10-12T23:21:04.406463",
+      "run_id": "6a2fb6d1",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "attempt_number": 2,
+      "checkpoint": "accurate_and_grounded",
+      "signature": "accurate_and_grounded::general",
+      "reason": "The evaluator returned no result for this checkpoint. Treated as a failure so an unevaluated criterion can never pass by default.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0139",
+      "timestamp": "2026-10-12T23:21:04.406865",
+      "run_id": "6a2fb6d1",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "attempt_number": 2,
+      "checkpoint": "beginner_friendly_language",
+      "signature": "beginner_friendly_language::general",
+      "reason": "The evaluator returned no result for this checkpoint. Treated as a failure so an unevaluated criterion can never pass by default.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0140",
+      "timestamp": "2026-10-12T23:21:04.407198",
+      "run_id": "6a2fb6d1",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "attempt_number": 2,
+      "checkpoint": "teaches_by_example",
+      "signature": "teaches_by_example::general",
+      "reason": "The evaluator returned no result for this checkpoint. Treated as a failure so an unevaluated criterion can never pass by default.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0141",
+      "timestamp": "2026-10-12T23:21:04.407383",
+      "run_id": "6a2fb6d1",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "attempt_number": 2,
+      "checkpoint": "no_unexplained_jargon",
+      "signature": "no_unexplained_jargon::general",
+      "reason": "The evaluator returned no result for this checkpoint. Treated as a failure so an unevaluated criterion can never pass by default.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0142",
+      "timestamp": "2026-10-12T23:21:04.407555",
+      "run_id": "6a2fb6d1",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "attempt_number": 2,
+      "checkpoint": "covers_key_points",
+      "signature": "covers_key_points::too_short",
+      "reason": "The lesson is only 0 words \u2014 too short to teach what it is, why it matters and how it works. Explain each of the three properly.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0143",
+      "timestamp": "2026-10-12T23:21:04.407907",
+      "run_id": "6a2fb6d1",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "attempt_number": 2,
+      "checkpoint": "coherent_teaching_flow",
+      "signature": "coherent_teaching_flow::general",
+      "reason": "The evaluator returned no result for this checkpoint. Treated as a failure so an unevaluated criterion can never pass by default.",
+      "outcome": "fail"
+    },
+    {
+      "id": "obs_0144",
+      "timestamp": "2026-10-12T23:21:04.407919",
+      "run_id": "6a2fb6d1",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "checkpoint": "accurate_and_grounded",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0145",
+      "timestamp": "2026-10-12T23:21:04.407926",
+      "run_id": "6a2fb6d1",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "checkpoint": "beginner_friendly_language",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0146",
+      "timestamp": "2026-10-12T23:21:04.407931",
+      "run_id": "6a2fb6d1",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "checkpoint": "teaches_by_example",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0147",
+      "timestamp": "2026-10-12T23:21:04.407937",
+      "run_id": "6a2fb6d1",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "checkpoint": "covers_key_points",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
+    },
+    {
+      "id": "obs_0148",
+      "timestamp": "2026-10-12T23:21:04.407942",
+      "run_id": "6a2fb6d1",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "checkpoint": "coherent_teaching_flow",
+      "signature": null,
+      "reason": "",
+      "outcome": "pass"
     }
   ]
 }

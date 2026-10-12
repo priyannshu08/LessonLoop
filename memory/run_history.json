@@ -2731,6 +2731,235 @@
           "no_unexplained_jargon"
         ]
       ]
+    },
+    {
+      "run_id": "6a2fb6d1",
+      "timestamp": "2026-10-12T23:21:04.476249",
+      "topic": "RAG (Retrieval-Augmented Generation)",
+      "total_attempts": 3,
+      "final_passed": false,
+      "final_result": "BEST_EFFORT",
+      "duration_seconds": 66.82,
+      "memory_rules_active_count": 1,
+      "memory_rules_active": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "attempts": [
+        {
+          "attempt_number": 1,
+          "word_count": 949,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 949,
+            "sentence_count": 87,
+            "avg_sentence_words": 10.9,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 6.4,
+            "reading_ease": 67.2
+          },
+          "passed_count": 5,
+          "failed_count": 1,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (no_unexplained_jargon). The lesson meets all six checkpoints. It presents accurate information in simple language, includes a detailed example, explains all jargon, covers the essential aspects of RAG, and follows a logical teaching sequence. A 12th\u2011grade graduate from India with limited English and no technical background would be able to understand and apply the concepts.",
+          "is_final_attempt": false,
+          "lesson_preview": "# Beginner Lesson: RAG (Retrieval\u2011Augmented Generation)\n\n## 1. What is RAG?\n\n**RAG** stands for **Retrieval\u2011Augmented Generation**.  \nIt is a way to build an AI that can *look up* facts before it *writes* an answer.\n\nThink of it as a student who first checks a textbook and then writes a report.\n\n---\n\n## 2. Why RAG matters\n\n| Problem | RAG\u2019s Solution |\n|---------|----------------|\n| AI can give wro...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": true,
+              "reason": "The lesson correctly states that RAG retrieves real documents to reduce hallucinations and can use a small, up\u2011to\u2011date knowledge base. These are factual descriptions of how RAG operates and do not contain any invented or misleading claims.",
+              "evidence": "It uses real documents that it finds, so the answer is more trustworthy."
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": true,
+              "reason": "The wording is everyday English and the tone is conversational. It avoids textbook diction and explains concepts in a way a non\u2011English\u2011medium student can grasp.",
+              "evidence": "Think of it as a student who first checks a textbook and then writes a report."
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": true,
+              "reason": "The lesson walks through a concrete scenario, detailing each step from building a knowledge base to retrieving and generating an answer. This satisfies the requirement of a full example.",
+              "evidence": "You want an AI that can answer questions about Indian Independence.\n\nStep 1 \u2013 Build the Knowledge Base\n\n* Gather 100 articles about Indian history.\n* Store each article as a plain text file."
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": false,
+              "reason": "7 technical term(s) appear with no explanation in the same or next sentence: artificial intelligence, machine learning, model, embedding, vector, API. Explain each in plain words the first time it appears.",
+              "evidence": "Used without explanation: artificial intelligence, machine learning, model, embedding, vector, API"
+            },
+            {
+              "name": "covers_key_points",
+              "passed": true,
+              "reason": "The lesson explicitly covers the definition, the motivation, and the operational details of RAG, providing a complete picture of the concept.",
+              "evidence": "## 1. What is RAG?\n## 2. Why RAG matters\n## 3. How RAG works \u2013 the two parts"
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": true,
+              "reason": "Each section builds on the previous one, with no concepts introduced before they are explained. The flow is logical and continuous.",
+              "evidence": "The lesson starts with a definition, then explains why it matters, follows with how it works, introduces key terms, gives a concrete example, shows how to build a system, and ends with a summary and practice."
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        },
+        {
+          "attempt_number": 2,
+          "word_count": 0,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 0,
+            "sentence_count": 0,
+            "avg_sentence_words": 0.0,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 0.0,
+            "reading_ease": 0.0
+          },
+          "passed_count": 0,
+          "failed_count": 6,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (covers_key_points). Evaluation failed (OpenAIRateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m4rkbmp2evyvnn80kcgedzn9` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 4762, Requested 3837. Please try again in 4.4925s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}).",
+          "is_final_attempt": false,
+          "lesson_preview": "",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": false,
+              "reason": "The evaluator returned no result for this checkpoint. Treated as a failure so an unevaluated criterion can never pass by default.",
+              "evidence": "(nothing found)"
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": false,
+              "reason": "The evaluator returned no result for this checkpoint. Treated as a failure so an unevaluated criterion can never pass by default.",
+              "evidence": "(nothing found)"
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": false,
+              "reason": "The evaluator returned no result for this checkpoint. Treated as a failure so an unevaluated criterion can never pass by default.",
+              "evidence": "(nothing found)"
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": false,
+              "reason": "The evaluator returned no result for this checkpoint. Treated as a failure so an unevaluated criterion can never pass by default.",
+              "evidence": "(nothing found)"
+            },
+            {
+              "name": "covers_key_points",
+              "passed": false,
+              "reason": "The lesson is only 0 words \u2014 too short to teach what it is, why it matters and how it works. Explain each of the three properly.",
+              "evidence": "Word count: 0"
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": false,
+              "reason": "The evaluator returned no result for this checkpoint. Treated as a failure so an unevaluated criterion can never pass by default.",
+              "evidence": "(nothing found)"
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": [
+            "accurate_and_grounded",
+            "beginner_friendly_language",
+            "coherent_teaching_flow",
+            "covers_key_points",
+            "teaches_by_example"
+          ]
+        },
+        {
+          "attempt_number": 3,
+          "word_count": 734,
+          "word_count_delta": null,
+          "metrics": {
+            "word_count": 734,
+            "sentence_count": 52,
+            "avg_sentence_words": 14.1,
+            "long_sentence_count": 0,
+            "long_sentence_ratio": 0.0,
+            "longest_sentences": [],
+            "academic_words": [],
+            "fk_grade": 7.6,
+            "reading_ease": 61.0
+          },
+          "passed_count": 0,
+          "failed_count": 6,
+          "overall_pass": false,
+          "evaluation_summary": "Failed measured gates (no_unexplained_jargon). Evaluation failed (OpenAIRateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m4rkbmp2evyvnn80kcgedzn9` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 3502, Requested 4991. Please try again in 3.6975s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}).",
+          "is_final_attempt": true,
+          "lesson_preview": "# Retrieval\u2011Augmented Generation (RAG)\n\n## 1. What is RAG?\n\n**Retrieval\u2011Augmented Generation** is a way for a computer program to answer questions or write text by  \n1. looking up useful information in a big library (the *retrieval* step), and  \n2. using that information to create a natural\u2011language answer (the *generation* step).\n\nThink of it like a student who first searches a textbook for facts...",
+          "checkpoints": [
+            {
+              "name": "accurate_and_grounded",
+              "passed": false,
+              "reason": "The evaluator returned no result for this checkpoint. Treated as a failure so an unevaluated criterion can never pass by default.",
+              "evidence": "(nothing found)"
+            },
+            {
+              "name": "beginner_friendly_language",
+              "passed": false,
+              "reason": "The evaluator returned no result for this checkpoint. Treated as a failure so an unevaluated criterion can never pass by default.",
+              "evidence": "(nothing found)"
+            },
+            {
+              "name": "teaches_by_example",
+              "passed": false,
+              "reason": "The evaluator returned no result for this checkpoint. Treated as a failure so an unevaluated criterion can never pass by default.",
+              "evidence": "(nothing found)"
+            },
+            {
+              "name": "no_unexplained_jargon",
+              "passed": false,
+              "reason": "5 technical term(s) appear with no explanation in the same or next sentence: AI, large language model, model, vector, corpus. Explain each in plain words the first time it appears.",
+              "evidence": "Used without explanation: AI, large language model, model, vector, corpus"
+            },
+            {
+              "name": "covers_key_points",
+              "passed": false,
+              "reason": "The evaluator returned no result for this checkpoint. Treated as a failure so an unevaluated criterion can never pass by default.",
+              "evidence": "(nothing found)"
+            },
+            {
+              "name": "coherent_teaching_flow",
+              "passed": false,
+              "reason": "The evaluator returned no result for this checkpoint. Treated as a failure so an unevaluated criterion can never pass by default.",
+              "evidence": "(nothing found)"
+            }
+          ],
+          "feedback_sent_to_generator": null,
+          "checkpoints_fixed": [],
+          "checkpoints_regressed": []
+        }
+      ],
+      "selected_attempt": 1,
+      "new_rules_learned": [],
+      "memory_rules_after": [
+        "Always introduce a technical term with a brief, simple explanation immediately upon its first use, using everyday language."
+      ],
+      "memory_rules_after_count": 1,
+      "failed_checkpoints_per_attempt": [
+        [
+          "no_unexplained_jargon"
+        ],
+        [
+          "accurate_and_grounded",
+          "beginner_friendly_language",
+          "teaches_by_example",
+          "no_unexplained_jargon",
+          "covers_key_points",
+          "coherent_teaching_flow"
+        ]
+      ]
     }
   ]
 }
