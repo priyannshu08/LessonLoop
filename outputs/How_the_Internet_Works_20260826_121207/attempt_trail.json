@@ -1,0 +1,205 @@
+[
+  {
+    "attempt_number": 1,
+    "word_count": 500,
+    "lesson_preview": "# How the Internet Works\n\n## What is the Internet?\n\nThe Internet is a network of computers around the world. It allows people to share information and communicate. Think of it like a giant spider web connecting many computers. When you use your smartphone or computer, you are using the Internet to send and receive information.\n\n## Why Does the Internet Matter?\n\nThe Internet is important for many r...",
+    "full_lesson": "# How the Internet Works\n\n## What is the Internet?\n\nThe Internet is a network of computers around the world. It allows people to share information and communicate. Think of it like a giant spider web connecting many computers. When you use your smartphone or computer, you are using the Internet to send and receive information.\n\n## Why Does the Internet Matter?\n\nThe Internet is important for many reasons:\n\n1. **Communication**: You can talk to friends and family anywhere in the world.\n2. **Information**: You can find answers to questions, learn new things, and read news.\n3. **Entertainment**: You can watch videos, play games, and listen to music.\n4. **Business**: Companies use the Internet to reach customers and sell products.\n\n## How Does the Internet Work?\n\n### 1. Devices and Connections\n\nTo use the Internet, you need a device, like a smartphone or computer. You also need a connection, which can be:\n\n- **Wi-Fi**: A wireless connection that uses radio waves.\n- **Mobile Data**: A connection provided by your mobile phone company.\n\n### Example: Connecting to Wi-Fi\n\nImagine you are at home. You turn on your smartphone and connect to your Wi-Fi. Your Wi-Fi router receives the signal from your Internet Service Provider (ISP). The ISP connects your home to the larger network of the Internet.\n\n### 2. Data and Packets\n\nWhen you send or receive information, it is broken into small pieces called **packets**. Each packet travels separately over the Internet. \n\n### Example: Sending a Message\n\nWhen you send a message to a friend, your smartphone breaks the message into packets. Each packet finds the best route through the network to reach your friend's device. Once all the packets arrive, your friend's device puts them back together to show the full message.\n\n### 3. IP Addresses\n\nEvery device connected to the Internet has a unique address called an **IP address**. This address helps identify where data is coming from and where it should go.\n\n### Example: Finding Your Friend's Device\n\nWhen you send your message, your smartphone uses your friend's IP address to know where to send the packets. Without this address, the packets would not know where to go.\n\n### 4. Servers\n\nServers are powerful computers that store and send information. When you visit a website, your device connects to a server that has the website's data.\n\n### Example: Visiting a Website\n\nImagine you want to visit a website to watch a video. Your device sends a request to the server where the video is stored. The server then sends the video data back to your device in packets. Your device puts the packets together so you can watch the video.\n\n## Summary\n\nThe Internet is a huge network that connects computers and devices around the world. It allows us to communicate, find information, and enjoy entertainment. We use devices, connections, packets, IP addresses, and servers to make it all happen. \n\nWith this basic understanding, you are one step closer to exploring the world of technology and AI!",
+    "checkpoints": [
+      {
+        "name": "accurate_and_grounded",
+        "passed": true,
+        "reason": "The lesson accurately describes the Internet as a network of computers that facilitates communication and information sharing. It also correctly explains concepts like Wi-Fi, mobile data, packets, IP addresses, and servers, providing a grounded understanding of how the Internet functions.",
+        "evidence": "\"The Internet is a network of computers around the world. It allows people to share information and communicate.\""
+      },
+      {
+        "name": "beginner_friendly_language",
+        "passed": true,
+        "reason": "The language used is simple and relatable, using analogies like a 'giant spider web' to explain complex concepts. The tone is conversational, making it accessible to beginners.",
+        "evidence": "\"Think of it like a giant spider web connecting many computers. When you use your smartphone or computer, you are using the Internet to send and receive information.\""
+      },
+      {
+        "name": "teaches_by_example",
+        "passed": true,
+        "reason": "The lesson includes several concrete examples, such as connecting to Wi-Fi and sending a message, which walk through scenarios to illustrate how the Internet works in practice.",
+        "evidence": "\"Example: Connecting to Wi-Fi... Imagine you are at home. You turn on your smartphone and connect to your Wi-Fi.\""
+      },
+      {
+        "name": "no_unexplained_jargon",
+        "passed": true,
+        "reason": "The lesson explains technical terms like 'packets' and 'IP addresses' in simple language, ensuring that jargon is not left unexplained or circularly defined.",
+        "evidence": "\"When you send or receive information, it is broken into small pieces called **packets**.\""
+      },
+      {
+        "name": "covers_key_points",
+        "passed": true,
+        "reason": "The lesson covers what the Internet is, why it matters, and how it works, providing a comprehensive overview that includes the necessary components and processes involved.",
+        "evidence": "\"The Internet is a huge network that connects computers and devices around the world. It allows us to communicate, find information, and enjoy entertainment. We use devices, connections, packets, IP addresses, and servers to make it all happen.\""
+      },
+      {
+        "name": "coherent_teaching_flow",
+        "passed": false,
+        "reason": "The lesson explains how it works before explaining what it is, so the reader meets the mechanism before the concept. Introduce what it is first.",
+        "evidence": "\"# How the Internet Works\" appears before \"## What is the Internet?\""
+      }
+    ],
+    "metrics": {
+      "word_count": 500,
+      "sentence_count": 42,
+      "avg_sentence_words": 11.9,
+      "long_sentence_count": 0,
+      "long_sentence_ratio": 0.0,
+      "longest_sentences": [],
+      "academic_words": [],
+      "fk_grade": 7.9,
+      "reading_ease": 61.5
+    },
+    "passed_count": 5,
+    "failed_count": 1,
+    "overall_pass": false,
+    "evaluation_summary": "Failed measured gates (coherent_teaching_flow). The lesson effectively explains how the Internet works using beginner-friendly language and concrete examples. It accurately covers key concepts such as devices, connections, packets, IP addresses, and servers, ensuring no jargon is left unexplained. The teaching flow is coherent, making it easy for a beginner to follow and understand.",
+    "feedback_sent_to_generator": null,
+    "is_final_attempt": false
+  },
+  {
+    "attempt_number": 2,
+    "word_count": 500,
+    "lesson_preview": "# How the Internet Works\n\n## What is the Internet?\n\nThe Internet is a network of computers around the world. It allows people to share information and communicate. Think of it like a giant spider web connecting many computers. When you use your smartphone or computer, you are using the Internet to send and receive information.\n\n## Why Does the Internet Matter?\n\nThe Internet is important for many r...",
+    "full_lesson": "# How the Internet Works\n\n## What is the Internet?\n\nThe Internet is a network of computers around the world. It allows people to share information and communicate. Think of it like a giant spider web connecting many computers. When you use your smartphone or computer, you are using the Internet to send and receive information.\n\n## Why Does the Internet Matter?\n\nThe Internet is important for many reasons:\n\n1. **Communication**: You can talk to friends and family anywhere in the world.\n2. **Information**: You can find answers to questions, learn new things, and read news.\n3. **Entertainment**: You can watch videos, play games, and listen to music.\n4. **Business**: Companies use the Internet to reach customers and sell products.\n\n## How Does the Internet Work?\n\n### 1. Devices and Connections\n\nTo use the Internet, you need a device, like a smartphone or computer. You also need a connection, which can be:\n\n- **Wi-Fi**: A wireless connection that uses radio waves.\n- **Mobile Data**: A connection provided by your mobile phone company.\n\n### Example: Connecting to Wi-Fi\n\nImagine you are at home. You turn on your smartphone and connect to your Wi-Fi. Your Wi-Fi router receives the signal from your Internet Service Provider (ISP). The ISP connects your home to the larger network of the Internet.\n\n### 2. Data and Packets\n\nWhen you send or receive information, it is broken into small pieces called **packets**. Each packet travels separately over the Internet.\n\n### Example: Sending a Message\n\nWhen you send a message to a friend, your smartphone breaks the message into packets. Each packet finds the best route through the network to reach your friend's device. Once all the packets arrive, your friend's device puts them back together to show the full message.\n\n### 3. IP Addresses\n\nEvery device connected to the Internet has a unique address called an **IP address**. This address helps identify where data is coming from and where it should go.\n\n### Example: Finding Your Friend's Device\n\nWhen you send your message, your smartphone uses your friend's IP address to know where to send the packets. Without this address, the packets would not know where to go.\n\n### 4. Servers\n\nServers are powerful computers that store and send information. When you visit a website, your device connects to a server that has the website's data.\n\n### Example: Visiting a Website\n\nImagine you want to visit a website to watch a video. Your device sends a request to the server where the video is stored. The server then sends the video data back to your device in packets. Your device puts the packets together so you can watch the video.\n\n## Summary\n\nThe Internet is a huge network that connects computers and devices around the world. It allows us to communicate, find information, and enjoy entertainment. We use devices, connections, packets, IP addresses, and servers to make it all happen. \n\nWith this basic understanding, you are one step closer to exploring the world of technology and AI!",
+    "checkpoints": [
+      {
+        "name": "accurate_and_grounded",
+        "passed": true,
+        "reason": "The lesson accurately describes the Internet as a network of computers that facilitates communication and information sharing. It also correctly explains the role of devices, connections, packets, IP addresses, and servers in the functioning of the Internet. The examples provided, such as connecting to Wi-Fi and sending a message, are grounded in real-world processes.",
+        "evidence": "\"The Internet is a network of computers around the world. It allows people to share information and communicate.\""
+      },
+      {
+        "name": "beginner_friendly_language",
+        "passed": true,
+        "reason": "The lesson uses simple and relatable analogies, such as comparing the Internet to a giant spider web, to explain complex concepts. The language is conversational and accessible, making it easy for a beginner to understand.",
+        "evidence": "\"Think of it like a giant spider web connecting many computers.\""
+      },
+      {
+        "name": "teaches_by_example",
+        "passed": true,
+        "reason": "The lesson includes several concrete examples that walk through scenarios, such as connecting to Wi-Fi and sending a message. These examples help the reader visualize and understand how the Internet works in practical terms.",
+        "evidence": "\"Example: Connecting to Wi-Fi... Imagine you are at home. You turn on your smartphone and connect to your Wi-Fi.\""
+      },
+      {
+        "name": "no_unexplained_jargon",
+        "passed": true,
+        "reason": "The lesson explains technical terms like 'packets' and 'IP addresses' in simple language, ensuring that the reader can understand these concepts without prior knowledge. The explanations are clear and avoid circular definitions.",
+        "evidence": "\"When you send or receive information, it is broken into small pieces called **packets**.\""
+      },
+      {
+        "name": "covers_key_points",
+        "passed": true,
+        "reason": "The lesson covers what the Internet is, why it matters, and how it works. It explains the components and processes involved in using the Internet, such as devices, connections, and data transmission, providing a comprehensive overview.",
+        "evidence": "\"The Internet is a huge network that connects computers and devices around the world. It allows us to communicate, find information, and enjoy entertainment. We use devices, connections, packets, IP addresses, and servers to make it all happen.\""
+      },
+      {
+        "name": "coherent_teaching_flow",
+        "passed": false,
+        "reason": "The lesson explains how it works before explaining what it is, so the reader meets the mechanism before the concept. Introduce what it is first.",
+        "evidence": "\"# How the Internet Works\" appears before \"## What is the Internet?\""
+      }
+    ],
+    "metrics": {
+      "word_count": 500,
+      "sentence_count": 42,
+      "avg_sentence_words": 11.9,
+      "long_sentence_count": 0,
+      "long_sentence_ratio": 0.0,
+      "longest_sentences": [],
+      "academic_words": [],
+      "fk_grade": 7.9,
+      "reading_ease": 61.5
+    },
+    "passed_count": 5,
+    "failed_count": 1,
+    "overall_pass": false,
+    "evaluation_summary": "Failed measured gates (coherent_teaching_flow). The lesson effectively explains how the Internet works using beginner-friendly language and relatable examples. It accurately covers the key points of what the Internet is, why it matters, and how it functions, ensuring a coherent teaching flow. The explanations are clear and devoid of unexplained jargon, making it suitable for a beginner audience.",
+    "feedback_sent_to_generator": null,
+    "is_final_attempt": false,
+    "checkpoints_fixed": [],
+    "checkpoints_regressed": [],
+    "checkpoints_still_failing": [
+      "coherent_teaching_flow"
+    ],
+    "metric_deltas": {
+      "word_count": "words: 500 \u2192 500 (+0)",
+      "long_sentence_ratio": "long-sentence ratio: 0.00 \u2192 0.00 (+0.00)",
+      "fk_grade": "reading grade: 7.9 \u2192 7.9 (+0.0)"
+    }
+  },
+  {
+    "attempt_number": 3,
+    "word_count": 500,
+    "lesson_preview": "# How the Internet Works\n\n## What is the Internet?\n\nThe Internet is a network of computers around the world. It allows people to share information and communicate. Think of it like a giant spider web connecting many computers. When you use your smartphone or computer, you are using the Internet to send and receive information.\n\n## Why Does the Internet Matter?\n\nThe Internet is important for many r...",
+    "full_lesson": "# How the Internet Works\n\n## What is the Internet?\n\nThe Internet is a network of computers around the world. It allows people to share information and communicate. Think of it like a giant spider web connecting many computers. When you use your smartphone or computer, you are using the Internet to send and receive information.\n\n## Why Does the Internet Matter?\n\nThe Internet is important for many reasons:\n\n1. **Communication**: You can talk to friends and family anywhere in the world.\n2. **Information**: You can find answers to questions, learn new things, and read news.\n3. **Entertainment**: You can watch videos, play games, and listen to music.\n4. **Business**: Companies use the Internet to reach customers and sell products.\n\n## How Does the Internet Work?\n\n### 1. Devices and Connections\n\nTo use the Internet, you need a device, like a smartphone or computer. You also need a connection, which can be:\n\n- **Wi-Fi**: A wireless connection that uses radio waves.\n- **Mobile Data**: A connection provided by your mobile phone company.\n\n### Example: Connecting to Wi-Fi\n\nImagine you are at home. You turn on your smartphone and connect to your Wi-Fi. Your Wi-Fi router receives the signal from your Internet Service Provider (ISP). The ISP connects your home to the larger network of the Internet.\n\n### 2. Data and Packets\n\nWhen you send or receive information, it is broken into small pieces called **packets**. Each packet travels separately over the Internet.\n\n### Example: Sending a Message\n\nWhen you send a message to a friend, your smartphone breaks the message into packets. Each packet finds the best route through the network to reach your friend's device. Once all the packets arrive, your friend's device puts them back together to show the full message.\n\n### 3. IP Addresses\n\nEvery device connected to the Internet has a unique address called an **IP address**. This address helps identify where data is coming from and where it should go.\n\n### Example: Finding Your Friend's Device\n\nWhen you send your message, your smartphone uses your friend's IP address to know where to send the packets. Without this address, the packets would not know where to go.\n\n### 4. Servers\n\nServers are powerful computers that store and send information. When you visit a website, your device connects to a server that has the website's data.\n\n### Example: Visiting a Website\n\nImagine you want to visit a website to watch a video. Your device sends a request to the server where the video is stored. The server then sends the video data back to your device in packets. Your device puts the packets together so you can watch the video.\n\n## Summary\n\nThe Internet is a huge network that connects computers and devices around the world. It allows us to communicate, find information, and enjoy entertainment. We use devices, connections, packets, IP addresses, and servers to make it all happen. \n\nWith this basic understanding, you are one step closer to exploring the world of technology and AI!",
+    "checkpoints": [
+      {
+        "name": "accurate_and_grounded",
+        "passed": true,
+        "reason": "The lesson accurately describes the Internet as a network of computers that facilitates communication and information sharing. It also correctly explains the role of devices, connections, packets, IP addresses, and servers in the functioning of the Internet. The examples provided, such as connecting to Wi-Fi and sending a message, are grounded in real-world processes.",
+        "evidence": "\"The Internet is a network of computers around the world. It allows people to share information and communicate.\""
+      },
+      {
+        "name": "beginner_friendly_language",
+        "passed": true,
+        "reason": "The lesson uses simple analogies and everyday language to explain complex concepts, such as comparing the Internet to a giant spider web. The tone is conversational and approachable, making it accessible to beginners.",
+        "evidence": "\"Think of it like a giant spider web connecting many computers. When you use your smartphone or computer, you are using the Internet to send and receive information.\""
+      },
+      {
+        "name": "teaches_by_example",
+        "passed": true,
+        "reason": "The lesson includes several concrete examples that walk through scenarios, such as connecting to Wi-Fi and sending a message. These examples help the reader visualize and understand how the Internet works in practical terms.",
+        "evidence": "\"Example: Connecting to Wi-Fi... Imagine you are at home. You turn on your smartphone and connect to your Wi-Fi. Your Wi-Fi router receives the signal from your Internet Service Provider (ISP).\""
+      },
+      {
+        "name": "no_unexplained_jargon",
+        "passed": true,
+        "reason": "The lesson explains technical terms like 'packets' and 'IP addresses' in simple language that is understandable to someone with no background in technology. The explanations are clear and avoid circular definitions.",
+        "evidence": "\"When you send or receive information, it is broken into small pieces called **packets**. Each packet travels separately over the Internet.\""
+      },
+      {
+        "name": "covers_key_points",
+        "passed": true,
+        "reason": "The lesson covers what the Internet is, why it matters, and how it works. It explains the components and processes involved in using the Internet, such as devices, connections, and data packets, providing a comprehensive overview.",
+        "evidence": "\"The Internet is a huge network that connects computers and devices around the world. It allows us to communicate, find information, and enjoy entertainment. We use devices, connections, packets, IP addresses, and servers to make it all happen.\""
+      },
+      {
+        "name": "coherent_teaching_flow",
+        "passed": false,
+        "reason": "The lesson explains how it works before explaining what it is, so the reader meets the mechanism before the concept. Introduce what it is first.",
+        "evidence": "\"# How the Internet Works\" appears before \"## What is the Internet?\""
+      }
+    ],
+    "metrics": {
+      "word_count": 500,
+      "sentence_count": 42,
+      "avg_sentence_words": 11.9,
+      "long_sentence_count": 0,
+      "long_sentence_ratio": 0.0,
+      "longest_sentences": [],
+      "academic_words": [],
+      "fk_grade": 7.9,
+      "reading_ease": 61.5
+    },
+    "passed_count": 5,
+    "failed_count": 1,
+    "overall_pass": false,
+    "evaluation_summary": "Failed measured gates (coherent_teaching_flow). The lesson effectively explains how the Internet works using beginner-friendly language and concrete examples. It accurately covers key points about the Internet's function, importance, and components, ensuring a coherent teaching flow. The explanations are clear and devoid of unexplained jargon, making it suitable for a beginner audience.",
+    "feedback_sent_to_generator": null,
+    "is_final_attempt": true,
+    "checkpoints_fixed": [],
+    "checkpoints_regressed": [],
+    "checkpoints_still_failing": [
+      "coherent_teaching_flow"
+    ],
+    "metric_deltas": {
+      "word_count": "words: 500 \u2192 500 (+0)",
+      "long_sentence_ratio": "long-sentence ratio: 0.00 \u2192 0.00 (+0.00)",
+      "fk_grade": "reading grade: 7.9 \u2192 7.9 (+0.0)"
+    }
+  }
+]

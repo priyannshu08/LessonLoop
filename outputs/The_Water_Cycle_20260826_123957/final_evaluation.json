@@ -1,0 +1,42 @@
+{
+  "checkpoints": [
+    {
+      "name": "accurate_and_grounded",
+      "evidence": "\"The water cycle has four main stages: evaporation, condensation, precipitation, and collection.\"",
+      "reason": "The lesson accurately describes the water cycle stages: evaporation, condensation, precipitation, and collection. These are the correct stages involved in the water cycle, and the descriptions provided for each stage are factually correct and grounded in reality.",
+      "passed": true
+    },
+    {
+      "name": "beginner_friendly_language",
+      "evidence": "\"The water cycle is the journey water takes as it moves around our planet. It goes from the ground to the sky and back again.\"",
+      "reason": "The language used in the lesson is simple and conversational, making it accessible to beginners. The tone is friendly and explains concepts in a way that resembles a person talking to a friend, rather than a formal textbook style.",
+      "passed": true
+    },
+    {
+      "name": "teaches_by_example",
+      "evidence": "\"Example: Imagine a puddle of water on a sunny day. The sun heats the water. Slowly, the water turns into vapor and rises into the sky. This is evaporation.\"",
+      "reason": "The lesson provides concrete examples for each stage of the water cycle, such as the puddle example for evaporation. These examples walk through scenarios, helping the reader visualize and understand the processes involved in the water cycle.",
+      "passed": true
+    },
+    {
+      "name": "no_unexplained_jargon",
+      "evidence": "\"Evaporation is when water turns into vapor (a gas) and goes into the air.\"",
+      "reason": "The lesson explains terms like 'evaporation' and 'condensation' in simple language that is understandable to someone with no background knowledge. The explanations are clear and avoid using jargon without clarification.",
+      "passed": true
+    },
+    {
+      "name": "covers_key_points",
+      "evidence": "\"The water cycle is the journey water takes as it moves around our planet. It goes from the ground to the sky and back again. It is important because it helps distribute water, which is essential for all living things.\"",
+      "reason": "The lesson covers what the water cycle is, why it matters, and how it works. It explains the stages of the water cycle in detail, providing a clear sequence of events that describe the process. The importance of the water cycle is also addressed, covering all key points.",
+      "passed": true
+    },
+    {
+      "name": "coherent_teaching_flow",
+      "evidence": "\"Let's see how the water cycle works as a whole: 1. The sun heats water in rivers and lakes, causing evaporation...\"",
+      "reason": "The lesson follows a logical order, starting with an introduction to the water cycle, followed by its importance, and then a detailed explanation of each stage. The flow is coherent, with each section building on the previous one, culminating in a summary that ties everything together.",
+      "passed": true
+    }
+  ],
+  "overall_pass": true,
+  "summary": "The lesson on the water cycle is well-structured and effectively communicates the topic to a beginner audience. It uses simple language, provides clear examples, and covers all key points, ensuring a coherent understanding of the water cycle's stages and significance."
+}

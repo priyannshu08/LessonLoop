@@ -1,0 +1,63 @@
+[
+  {
+    "attempt_number": 1,
+    "word_count": 523,
+    "lesson_preview": "# Understanding Compound Interest\n\n## What is Compound Interest?\n\n**Compound interest** is a way to earn money on your savings or investments. It means that you earn interest not just on your original amount of money, but also on the interest that has already been added. \n\n### Example of Compound Interest\n\nImagine you have \u20b91,000 saved in a bank account. The bank offers you a compound interest rat...",
+    "full_lesson": "# Understanding Compound Interest\n\n## What is Compound Interest?\n\n**Compound interest** is a way to earn money on your savings or investments. It means that you earn interest not just on your original amount of money, but also on the interest that has already been added. \n\n### Example of Compound Interest\n\nImagine you have \u20b91,000 saved in a bank account. The bank offers you a compound interest rate of 5% per year. Here\u2019s how it works:\n\n1. **Year 1**: You start with \u20b91,000. At the end of the year, you earn 5% interest.\n   - Interest for Year 1 = \u20b91,000 \u00d7 0.05 = \u20b950\n   - Total amount after Year 1 = \u20b91,000 + \u20b950 = \u20b91,050\n\n2. **Year 2**: Now, you have \u20b91,050. At the end of Year 2, you again earn 5% interest, but this time it\u2019s on \u20b91,050.\n   - Interest for Year 2 = \u20b91,050 \u00d7 0.05 = \u20b952.50\n   - Total amount after Year 2 = \u20b91,050 + \u20b952.50 = \u20b91,102.50\n\n3. **Year 3**: Your total is now \u20b91,102.50. You earn 5% interest on this amount.\n   - Interest for Year 3 = \u20b91,102.50 \u00d7 0.05 = \u20b955.13\n   - Total amount after Year 3 = \u20b91,102.50 + \u20b955.13 = \u20b91,157.63\n\nAs you can see, each year you earn more interest than the previous year because you are earning interest on your interest.\n\n## Why is Compound Interest Important?\n\nCompound interest is important because it helps your money grow faster. The longer you save or invest, the more you benefit from compound interest. \n\n### Real-Life Scenario\n\nLet\u2019s say you want to save money for college. If you start saving \u20b91,000 now and keep it in a bank with compound interest, you will have more money when you need it.\n\n- If you save for 10 years, your \u20b91,000 can grow significantly. \n- After 10 years at 5% compound interest, you would have about \u20b91,628.89. \n\nThat\u2019s almost \u20b9630 more than what you started with!\n\n## How Does Compound Interest Work?\n\n1. **Principal**: This is the original amount of money you save or invest. In our example, it's \u20b91,000.\n   \n2. **Interest Rate**: This is the percentage the bank pays you for keeping your money with them. In our case, it's 5%.\n\n3. **Time**: The longer you leave your money in the bank, the more interest you earn. \n\n4. **Compounding Frequency**: This tells you how often the interest is calculated and added to your account. It can be yearly, monthly, or daily. The more often interest is added, the more you earn.\n\n### Different Compounding Frequencies\n\n- **Annually**: Interest is added once a year.\n- **Monthly**: Interest is added every month.\n- **Daily**: Interest is added every day.\n\nIf you had a monthly compounding interest instead of yearly, your money would grow even faster.\n\n## Conclusion\n\nCompound interest is a powerful tool for growing your savings. The earlier you start saving, the more you can benefit from it. Remember, the key factors are the principal amount, the interest rate, the time you save, and how often the interest is compounded. \n\nStart thinking about how you can use compound interest to make your money work for you!",
+    "checkpoints": [
+      {
+        "name": "accurate_and_grounded",
+        "passed": true,
+        "reason": "The lesson accurately describes compound interest as earning interest on both the initial principal and the accumulated interest from previous periods. The example calculations provided are correct and demonstrate the concept accurately.",
+        "evidence": "\"Compound interest is a way to earn money on your savings or investments. It means that you earn interest not just on your original amount of money, but also on the interest that has already been added.\""
+      },
+      {
+        "name": "beginner_friendly_language",
+        "passed": true,
+        "reason": "The language used is simple and conversational, making it accessible to someone with limited English proficiency. The tone is friendly and explains the concept as if talking to a friend, which is suitable for beginners.",
+        "evidence": "\"Imagine you have \u20b91,000 saved in a bank account. The bank offers you a compound interest rate of 5% per year. Here\u2019s how it works:\""
+      },
+      {
+        "name": "teaches_by_example",
+        "passed": true,
+        "reason": "The lesson provides a clear, step-by-step example of how compound interest works over three years, showing the calculations and how the interest accumulates. This concrete example helps the reader understand the concept in practice.",
+        "evidence": "\"Imagine you have \u20b91,000 saved in a bank account. The bank offers you a compound interest rate of 5% per year. Here\u2019s how it works:...\""
+      },
+      {
+        "name": "no_unexplained_jargon",
+        "passed": true,
+        "reason": "The lesson explains terms like 'Principal', 'Interest Rate', and 'Compounding Frequency' in simple language, ensuring that there is no unexplained jargon. Each term is defined in a way that is understandable to someone with no prior background.",
+        "evidence": "\"Principal: This is the original amount of money you save or invest. In our example, it's \u20b91,000.\""
+      },
+      {
+        "name": "covers_key_points",
+        "passed": true,
+        "reason": "The lesson covers what compound interest is, why it is important, and how it works, including the factors that affect it. It provides a real-life scenario to illustrate its importance and explains the process clearly.",
+        "evidence": "\"Compound interest is important because it helps your money grow faster. The longer you save or invest, the more you benefit from compound interest.\""
+      },
+      {
+        "name": "coherent_teaching_flow",
+        "passed": true,
+        "reason": "The lesson follows a logical progression, starting with the definition, followed by an example, then explaining its importance, and finally detailing how it works. Each section builds on the previous one, creating a coherent flow.",
+        "evidence": "\"What is Compound Interest? -> Example of Compound Interest -> Why is Compound Interest Important? -> How Does Compound Interest Work?\""
+      }
+    ],
+    "metrics": {
+      "word_count": 523,
+      "sentence_count": 51,
+      "avg_sentence_words": 10.3,
+      "long_sentence_count": 0,
+      "long_sentence_ratio": 0.0,
+      "longest_sentences": [],
+      "academic_words": [],
+      "fk_grade": 5.3,
+      "reading_ease": 77.1
+    },
+    "passed_count": 6,
+    "failed_count": 0,
+    "overall_pass": true,
+    "evaluation_summary": "The lesson on compound interest is well-structured and beginner-friendly. It accurately explains the concept using simple language and provides a clear example to illustrate how compound interest works. Key terms are explained without jargon, and the lesson covers all essential points, including what compound interest is, why it matters, and how it functions. The teaching flow is logical and coherent, making it easy for a beginner to follow and understand.",
+    "feedback_sent_to_generator": null,
+    "is_final_attempt": true
+  }
+]

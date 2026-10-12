@@ -1,0 +1,38 @@
+[
+  {
+    "attempt_number": 1,
+    "failed_checkpoints": [
+      "no_unexplained_jargon"
+    ],
+    "failure_reasons": {
+      "no_unexplained_jargon": "1 technical term(s) appear with no explanation in the same or next sentence: vector database. Explain each in plain words the first time it appears."
+    },
+    "feedback_given": "no_unexplained_jargon: 1 technical term(s) appear with no explanation in the same or next sentence: vector database. Explain each in plain words the first time it appears.",
+    "checkpoints_fixed": [],
+    "checkpoints_regressed": [],
+    "checkpoints_still_failing": [],
+    "metric_deltas": {},
+    "timestamp": "2026-08-26T12:13:43.787972"
+  },
+  {
+    "attempt_number": 2,
+    "failed_checkpoints": [
+      "no_unexplained_jargon"
+    ],
+    "failure_reasons": {
+      "no_unexplained_jargon": "1 technical term(s) appear with no explanation in the same or next sentence: vector database. Explain each in plain words the first time it appears."
+    },
+    "feedback_given": "no_unexplained_jargon: 1 technical term(s) appear with no explanation in the same or next sentence: vector database. Explain each in plain words the first time it appears.",
+    "checkpoints_fixed": [],
+    "checkpoints_regressed": [],
+    "checkpoints_still_failing": [
+      "no_unexplained_jargon"
+    ],
+    "metric_deltas": {
+      "word_count": "words: 498 \u2192 509 (+11)",
+      "long_sentence_ratio": "long-sentence ratio: 0.03 \u2192 0.03 (-0.00)",
+      "fk_grade": "reading grade: 7.2 \u2192 7.1 (-0.1)"
+    },
+    "timestamp": "2026-08-26T12:14:01.488994"
+  }
+]

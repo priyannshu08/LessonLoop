@@ -1,0 +1,63 @@
+[
+  {
+    "attempt_number": 1,
+    "word_count": 439,
+    "lesson_preview": "# Lesson: Introduction to Cryptography\n\n## What is Cryptography?\n\nCryptography (pronounced \"krip-tuh-gra-fee\") is the science of protecting information by transforming it into a secure format. This means that only the people who are supposed to see the information can read it. Imagine writing a secret message that only your friend can understand. That\u2019s what cryptography does!\n\n### Why Does Crypto...",
+    "full_lesson": "# Lesson: Introduction to Cryptography\n\n## What is Cryptography?\n\nCryptography (pronounced \"krip-tuh-gra-fee\") is the science of protecting information by transforming it into a secure format. This means that only the people who are supposed to see the information can read it. Imagine writing a secret message that only your friend can understand. That\u2019s what cryptography does!\n\n### Why Does Cryptography Matter?\n\nIn our everyday lives, we share a lot of personal information, like passwords for online accounts, bank information, and messages. If someone could read this information without permission, it could lead to problems like identity theft or financial loss. Cryptography helps keep this information safe.\n\n## How Does Cryptography Work?\n\nCryptography works by using two main processes: **encryption** and **decryption**.\n\n### 1. Encryption\n\n**Encryption** is the process of converting readable information (called plaintext) into a secret format (called ciphertext). This makes the information unreadable to anyone who doesn\u2019t have the key to unlock it.\n\n**Example of Encryption:**\n\nLet\u2019s say you want to send your friend a secret message: \"HELLO\".\n\nUsing a simple encryption method, you could change each letter to a different letter. For example:\n\n- H \u2192 K\n- E \u2192 G\n- L \u2192 N\n- O \u2192 Q\n\nSo, \"HELLO\" becomes \"KGNNQ\". Now, if someone sees \"KGNNQ\", they won't understand it without knowing the rules you used to change the letters.\n\n### 2. Decryption\n\n**Decryption** is the opposite of encryption. It is the process of converting the secret format (ciphertext) back into readable information (plaintext).\n\n**Example of Decryption:**\n\nUsing the same example, if your friend receives \"KGNNQ\", they can use the same rules to convert it back:\n\n- K \u2192 H\n- G \u2192 E\n- N \u2192 L\n- Q \u2192 O\n\nSo, \"KGNNQ\" becomes \"HELLO\" again.\n\n### How is Cryptography Used?\n\nCryptography is used in many areas, such as:\n\n- **Online Shopping:** When you buy something online, your credit card information is encrypted to keep it safe.\n- **Messaging Apps:** Apps like WhatsApp use encryption so that only you and the person you are chatting with can read the messages.\n- **Secure Websites:** When you see a padlock symbol in your browser, it means the website uses encryption to protect your information.\n\n## Summary\n\n- **Cryptography** is about keeping information safe by making it unreadable to anyone who shouldn't see it.\n- **Encryption** turns readable information into a secret format.\n- **Decryption** turns the secret format back into readable information.\n- Cryptography is important for protecting personal information online.\n\nNow you know the basics of cryptography! It helps keep our information safe in a world where many people use the internet every day.",
+    "checkpoints": [
+      {
+        "name": "accurate_and_grounded",
+        "passed": true,
+        "reason": "The lesson accurately describes cryptography as the science of protecting information by transforming it into a secure format. It correctly explains the processes of encryption and decryption with examples that align with basic cryptographic principles. The simplifications made are honest and do not distort the fundamental concepts of cryptography.",
+        "evidence": "\"Cryptography (pronounced 'krip-tuh-gra-fee') is the science of protecting information by transforming it into a secure format.\""
+      },
+      {
+        "name": "beginner_friendly_language",
+        "passed": true,
+        "reason": "The lesson uses everyday language and relatable analogies, such as comparing cryptography to writing a secret message for a friend. This approach makes the content accessible and engaging for beginners.",
+        "evidence": "\"Imagine writing a secret message that only your friend can understand. That\u2019s what cryptography does!\""
+      },
+      {
+        "name": "teaches_by_example",
+        "passed": true,
+        "reason": "The lesson provides a concrete example of encryption and decryption using a simple letter substitution method. This example walks through the process step-by-step, allowing the reader to see how cryptography works in practice.",
+        "evidence": "\"Let\u2019s say you want to send your friend a secret message: 'HELLO'. Using a simple encryption method, you could change each letter to a different letter...\""
+      },
+      {
+        "name": "no_unexplained_jargon",
+        "passed": true,
+        "reason": "The lesson explains technical terms like 'encryption', 'decryption', 'plaintext', and 'ciphertext' in simple language. These explanations are clear and understandable for someone with no background in the subject.",
+        "evidence": "\"**Encryption** is the process of converting readable information (called plaintext) into a secret format (called ciphertext).\""
+      },
+      {
+        "name": "covers_key_points",
+        "passed": true,
+        "reason": "The lesson covers what cryptography is, why it matters by explaining its importance in protecting personal information, and how it works through the processes of encryption and decryption. It also provides examples of real-world applications, ensuring all key points are addressed.",
+        "evidence": "\"Cryptography helps keep this information safe.\""
+      },
+      {
+        "name": "coherent_teaching_flow",
+        "passed": true,
+        "reason": "The lesson follows a logical flow, starting with an introduction to cryptography, followed by its importance, and then explaining how it works with examples. Each section builds on the previous one, creating a coherent teaching flow.",
+        "evidence": "\"Cryptography works by using two main processes: **encryption** and **decryption**.\""
+      }
+    ],
+    "metrics": {
+      "word_count": 439,
+      "sentence_count": 44,
+      "avg_sentence_words": 10.0,
+      "long_sentence_count": 0,
+      "long_sentence_ratio": 0.0,
+      "longest_sentences": [],
+      "academic_words": [],
+      "fk_grade": 10.0,
+      "reading_ease": 47.5
+    },
+    "passed_count": 6,
+    "failed_count": 0,
+    "overall_pass": true,
+    "evaluation_summary": "The lesson effectively introduces cryptography to beginners, using clear language and relatable examples. It accurately explains key concepts and processes, ensuring the reader understands what cryptography is, why it matters, and how it works. The teaching flow is logical and coherent, making the lesson suitable for a beginner audience.",
+    "feedback_sent_to_generator": null,
+    "is_final_attempt": true
+  }
+]

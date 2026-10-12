@@ -1,0 +1,38 @@
+[
+  {
+    "attempt_number": 1,
+    "failed_checkpoints": [
+      "coherent_teaching_flow"
+    ],
+    "failure_reasons": {
+      "coherent_teaching_flow": "The lesson explains how it works before explaining what it is, so the reader meets the mechanism before the concept. Introduce what it is first."
+    },
+    "feedback_given": "coherent_teaching_flow: The lesson explains how it works before explaining what it is, so the reader meets the mechanism before the concept. Introduce what it is first.",
+    "checkpoints_fixed": [],
+    "checkpoints_regressed": [],
+    "checkpoints_still_failing": [],
+    "metric_deltas": {},
+    "timestamp": "2026-08-26T12:11:38.544367"
+  },
+  {
+    "attempt_number": 2,
+    "failed_checkpoints": [
+      "coherent_teaching_flow"
+    ],
+    "failure_reasons": {
+      "coherent_teaching_flow": "The lesson explains how it works before explaining what it is, so the reader meets the mechanism before the concept. Introduce what it is first."
+    },
+    "feedback_given": "coherent_teaching_flow: The lesson explains how it works before explaining what it is, so the reader meets the mechanism before the concept. Introduce what it is first.",
+    "checkpoints_fixed": [],
+    "checkpoints_regressed": [],
+    "checkpoints_still_failing": [
+      "coherent_teaching_flow"
+    ],
+    "metric_deltas": {
+      "word_count": "words: 500 \u2192 500 (+0)",
+      "long_sentence_ratio": "long-sentence ratio: 0.00 \u2192 0.00 (+0.00)",
+      "fk_grade": "reading grade: 7.9 \u2192 7.9 (+0.0)"
+    },
+    "timestamp": "2026-08-26T12:11:51.685348"
+  }
+]

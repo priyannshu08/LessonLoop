@@ -1,0 +1,38 @@
+[
+  {
+    "attempt_number": 1,
+    "failed_checkpoints": [
+      "no_unexplained_jargon"
+    ],
+    "failure_reasons": {
+      "no_unexplained_jargon": "1 technical term(s) appear with no explanation in the same or next sentence: model. Explain each in plain words the first time it appears."
+    },
+    "feedback_given": "no_unexplained_jargon: 1 technical term(s) appear with no explanation in the same or next sentence: model. Explain each in plain words the first time it appears.",
+    "checkpoints_fixed": [],
+    "checkpoints_regressed": [],
+    "checkpoints_still_failing": [],
+    "metric_deltas": {},
+    "timestamp": "2026-08-26T12:32:37.539058"
+  },
+  {
+    "attempt_number": 2,
+    "failed_checkpoints": [
+      "no_unexplained_jargon"
+    ],
+    "failure_reasons": {
+      "no_unexplained_jargon": "1 technical term(s) appear with no explanation in the same or next sentence: model. Explain each in plain words the first time it appears."
+    },
+    "feedback_given": "no_unexplained_jargon: 1 technical term(s) appear with no explanation in the same or next sentence: model. Explain each in plain words the first time it appears.",
+    "checkpoints_fixed": [],
+    "checkpoints_regressed": [],
+    "checkpoints_still_failing": [
+      "no_unexplained_jargon"
+    ],
+    "metric_deltas": {
+      "word_count": "words: 501 \u2192 501 (+0)",
+      "long_sentence_ratio": "long-sentence ratio: 0.02 \u2192 0.02 (+0.00)",
+      "fk_grade": "reading grade: 7.8 \u2192 7.8 (+0.0)"
+    },
+    "timestamp": "2026-08-26T12:32:51.822545"
+  }
+]

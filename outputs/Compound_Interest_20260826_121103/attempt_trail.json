@@ -1,0 +1,65 @@
+[
+  {
+    "attempt_number": 1,
+    "word_count": 556,
+    "lesson_preview": "# Lesson on Compound Interest\n\n## What is Compound Interest?\n\nCompound interest is a way to calculate how much money you earn on your savings or investments. Unlike simple interest, which only pays you on the original amount you put in, compound interest pays you on both your original amount and any interest you have already earned.\n\n### Why Does It Matter?\n\nUnderstanding compound interest is impo...",
+    "full_lesson": "# Lesson on Compound Interest\n\n## What is Compound Interest?\n\nCompound interest is a way to calculate how much money you earn on your savings or investments. Unlike simple interest, which only pays you on the original amount you put in, compound interest pays you on both your original amount and any interest you have already earned.\n\n### Why Does It Matter?\n\nUnderstanding compound interest is important because it helps you grow your money over time. The more time your money has to grow, the more you earn. This is especially useful for savings accounts, investments, or loans.\n\n## How Does Compound Interest Work?\n\nLet\u2019s break it down step by step.\n\n### Example Scenario\n\nImagine you save \u20b91,000 in a bank account that offers a compound interest rate of 5% per year. Here\u2019s how it works:\n\n1. **Initial Amount (Principal)**: This is the money you start with. In our case, it\u2019s \u20b91,000.\n\n2. **Interest Rate**: This is the percentage the bank pays you for keeping your money with them. Here, it\u2019s 5%.\n\n3. **Time**: This is how long your money stays in the bank. We will look at 3 years.\n\n### Year-by-Year Breakdown\n\n**Year 1**:\n- You start with \u20b91,000.\n- At the end of the year, you earn 5% interest.\n- Interest = 5% of \u20b91,000 = \u20b950.\n- Total amount = \u20b91,000 + \u20b950 = \u20b91,050.\n\n**Year 2**:\n- Now, you have \u20b91,050.\n- This year, your interest is 5% of \u20b91,050.\n- Interest = 5% of \u20b91,050 = \u20b952.50.\n- Total amount = \u20b91,050 + \u20b952.50 = \u20b91,102.50.\n\n**Year 3**:\n- Now, you have \u20b91,102.50.\n- This year, your interest is 5% of \u20b91,102.50.\n- Interest = 5% of \u20b91,102.50 = \u20b955.13.\n- Total amount = \u20b91,102.50 + \u20b955.13 = \u20b91,157.63.\n\n### Summary of Amounts\n\nAt the end of 3 years:\n- Year 1: \u20b91,050\n- Year 2: \u20b91,102.50\n- Year 3: \u20b91,157.63\n\nYou can see how your money grows each year. The interest you earn increases because you are earning interest on both your initial money and the interest from previous years.\n\n## The Formula for Compound Interest\n\nThe formula to calculate compound interest is:\n\n\\[ A = P (1 + r)^n \\]\n\nWhere:\n- **A** = the total amount after n years (including interest)\n- **P** = the principal amount (initial money)\n- **r** = the interest rate (in decimal form)\n- **n** = the number of years\n\n### Example Using the Formula\n\nLet\u2019s use our example in the formula:\n\n- P = \u20b91,000\n- r = 5% = 0.05\n- n = 3\n\nSo, \n\n\\[ A = 1000 (1 + 0.05)^3 \\]\n\nCalculating this:\n\n1. \\( 1 + 0.05 = 1.05 \\)\n2. \\( 1.05^3 \u2248 1.157625 \\)\n3. \\( A \u2248 1000 * 1.157625 \u2248 \u20b91,157.63 \\)\n\nThis matches our earlier calculation!\n\n## Conclusion\n\nCompound interest is a powerful way to grow your money. By understanding how it works, you can make smarter choices about saving and investing. The longer you keep your money saved, the more it can grow through compound interest. \n\n### Key Points\n- Compound interest pays you on both your original amount and the interest you earned.\n- The longer you save, the more money you earn.\n- You can calculate it using a simple formula.\n\nNow you have a basic understanding of compound interest!",
+    "checkpoints": [
+      {
+        "name": "accurate_and_grounded",
+        "passed": true,
+        "reason": "The lesson accurately describes compound interest as earning interest on both the initial principal and the accumulated interest, which is a correct and grounded explanation of how compound interest works.",
+        "evidence": "\"Compound interest is a way to calculate how much money you earn on your savings or investments. Unlike simple interest, which only pays you on the original amount you put in, compound interest pays you on both your original amount and any interest you have already earned.\""
+      },
+      {
+        "name": "beginner_friendly_language",
+        "passed": true,
+        "reason": "The language used throughout the lesson is conversational and approachable, making it suitable for a beginner. Phrases like \"Let\u2019s break it down step by step\" indicate a friendly tone rather than a formal or textbook style.",
+        "evidence": "\"Let\u2019s break it down step by step.\""
+      },
+      {
+        "name": "teaches_by_example",
+        "passed": true,
+        "reason": "The lesson provides a detailed example of how compound interest works over three years, walking through each year's calculations. This concrete example helps the reader see the concept in action rather than just in theory.",
+        "evidence": "\"Imagine you save \u20b91,000 in a bank account that offers a compound interest rate of 5% per year. Here\u2019s how it works:...\""
+      },
+      {
+        "name": "no_unexplained_jargon",
+        "passed": true,
+        "reason": "The lesson explains the formula for compound interest clearly, breaking down each component in simple terms. There is no unexplained jargon, and each term is defined in a way that a beginner can understand.",
+        "evidence": "\"The formula to calculate compound interest is: \\[ A = P (1 + r)^n \\] Where: - **A** = the total amount after n years (including interest) - **P** = the principal amount (initial money) - **r** = the interest rate (in decimal form) - **n** = the number of years\""
+      },
+      {
+        "name": "covers_key_points",
+        "passed": true,
+        "reason": "The lesson covers what compound interest is, why it matters, and how it works through a detailed example and formula explanation. All key points are addressed comprehensively.",
+        "evidence": "\"Compound interest is a way to calculate how much money you earn on your savings or investments... Understanding compound interest is important because it helps you grow your money over time... Let\u2019s break it down step by step.\""
+      },
+      {
+        "name": "coherent_teaching_flow",
+        "passed": true,
+        "reason": "The lesson follows a logical progression from defining compound interest, explaining its importance, providing a detailed example, and then introducing the formula. This coherent flow helps the reader build understanding step by step without confusion.",
+        "evidence": "\"Let\u2019s break it down step by step. Example Scenario... Year-by-Year Breakdown... The Formula for Compound Interest... Conclusion\""
+      }
+    ],
+    "metrics": {
+      "word_count": 556,
+      "sentence_count": 61,
+      "avg_sentence_words": 9.1,
+      "long_sentence_count": 1,
+      "long_sentence_ratio": 0.016,
+      "longest_sentences": [
+        "Unlike simple interest, which only pays you on the original amount you put in, compound interest pays you on both your original amount and any interest you have already earned."
+      ],
+      "academic_words": [],
+      "fk_grade": 5.1,
+      "reading_ease": 77.2
+    },
+    "passed_count": 6,
+    "failed_count": 0,
+    "overall_pass": true,
+    "evaluation_summary": "The lesson on compound interest is well-structured and beginner-friendly, using clear language and a detailed example to explain the concept. It accurately covers what compound interest is, why it matters, and how it works, ensuring that all key points are addressed. The teaching flow is coherent, making it easy for a beginner to follow and understand.",
+    "feedback_sent_to_generator": null,
+    "is_final_attempt": true
+  }
+]

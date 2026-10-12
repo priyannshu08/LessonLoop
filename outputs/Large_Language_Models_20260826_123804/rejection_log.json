@@ -1,0 +1,17 @@
+[
+  {
+    "attempt_number": 1,
+    "failed_checkpoints": [
+      "no_unexplained_jargon"
+    ],
+    "failure_reasons": {
+      "no_unexplained_jargon": "1 technical term(s) appear with no explanation in the same or next sentence: training data. Explain each in plain words the first time it appears."
+    },
+    "feedback_given": "no_unexplained_jargon: 1 technical term(s) appear with no explanation in the same or next sentence: training data. Explain each in plain words the first time it appears.",
+    "checkpoints_fixed": [],
+    "checkpoints_regressed": [],
+    "checkpoints_still_failing": [],
+    "metric_deltas": {},
+    "timestamp": "2026-08-26T12:37:43.905684"
+  }
+]
